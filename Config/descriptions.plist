@@ -554,126 +554,126 @@
 	// Assorted messages sent out by ships etc..
 	"beg-for-mercy" =
 	(
-		"No!",
-		"Help! Anyone!",
-		"Our systems are failing, please let us flee!",
-		"Leave us alone!",
-		"Don’t shoot, please!",
-		"Please stop! Have mercy!",
-		"Please don’t kill us! I beg you!",
+		"Nein!",
+		"Hilfe! Hört uns jemand?",
+		"Unsere Systeme versagen, bitte lassen Sie uns fliehen!",
+		"Lassen Sie uns alleine!",
+		"Nicht schiessen, bitte!",
+		"Bitte aufhören ! Zeigen Sie Gnade!",
+		"Bitte töten Sie uns nicht! Ich flehe Sie an!",
 		"S.O.S. … S.O.S. … S.O.S. …"
 	);
 	"describe-pirate" =
 	(
-		"brigand",
-		"pirate",
-		"hostile vessel",
-		"marauder",
-		"criminal"
+		"räuberischer",
+		"piraten",
+		"feindliches Schiff",
+		"plündernde",
+		"kriminelle"
 	);
 	"describe-Pirate" =	// Capitalized version of describe-pirate
 	(
-		"Brigand",
-		"Pirate",
-		"Hostile vessel",
-		"Marauder",
-		"Criminal"
+		"Räuber",
+		"Piraten",
+		"Feindliche Schiffe",
+		"Plünderer",
+		"Kriminelle"
 	);
 	"distress-call" =
 	(
-		"We are [7] by [describe-pirate]s! Please help!",
-		"Our vessel is under attack, please help us.",
-		"[describe-Pirate]s are attacking us. Please assist!",
-		"Help! Anyone!",
-		"Mayday! Mayday! Mayday! We are under attack.",
-		"Help! They’re firing on us!",
-		"Mayday! Please assist. Mayday! Please assist.",
+		"Wir werden [7] von [describe-pirate]! Bitte helft uns!",
+		"Unser Schiff wird angegriffen, bitte helft uns!",
+		"[describe-Pirate] greifen uns an. Helft uns!!",
+		"Hilfe! Hört uns jemand?",
+		"Mayday! Mayday! Mayday! Wir werden angegriffen!",
+		"Hilfe! Die schiessen auf uns!",
+		"Mayday! Erbitte Hilfe! Mayday! Erbitte Hilfe!",
 		"S.O.S. … S.O.S. … S.O.S. …"
 	);
 	"buoy-distress-call" =
 	(
-		"You have attacked a Navigational Beacon. This is an illegal act.",
-		"%H Navigational Beacon reports an illegal act of vandalism.",
-		"%H Navigational Beacon to attacking craft. Please desist.",
-		"Attacking a Navigational Beacon is illegal. Police are on their way."
+		"Sie haben eine Navigationsboje beschädigt. Das ist verboten!",
+		"%H Navigationsboje meldet Vandalismus.",
+		"%H Navigationsboje an angreifendes Schiff. Bitte hören Sie auf.",
+		"Beschädigen von Navigationsbojen ist verboten. Die Polizei ist schon unterwegs."
 	);
 	"thanks-for-assist" =
 	(
-		"Thank you for the assistance.",
-		"Thanks!",
-		"%R bless you!",
-		"Oh thank you! Help at last!"
+		"Vielen Dank für die Hilfe.",
+		"Danke!",
+		"%R segne Sie!",
+		"Vielen Dank! Das hat geholfen!"
 	);
 	"police-thanks-for-assist" =
 	(
-		"Thank you for the assistance.",
-		"%H Police thank you for your assistance."
+		"Vielen Dank für Ihre Kooperation.",
+		"Die Polizei von %H dankt Ihnen für Ihre Kooperation."
 	);
 	"thargoid_curses" =
 	(
-		"Guard your [4], human [18]-[31]!",
-		"Eat [24], [5]!",
-		"We’ll use your [20] [27] for our [33]!",
+		"Beschütze dein [33], menschliche [17]!",
+		"Friss [24], ihr [17]!",
+		"Wir nehmen euer [20] [27] als [33]!",
 		"%R! %R! %R!"
 	);
 	"police-warning" =
 	(
-		"Offender vessel, this is %H Police. You have been scanned and will face penalties if you choose to dock here.",
-		"[describe-Pirate], this is %H Police. Fines will be imposed if you dock here.",
-		"This is the police. Docking at %H will require legal compensation for your offences.",
-		"This is the police. %H Station will fine you for your offences when you dock."
+		"Flüchtiges Raumschiff, hier spricht die Polizei von %H. Sie wurden erkannt und werden verhaftet wenn Sie hier landen.",
+		"[describe-Pirate], hier spricht die Polizei von %H. Sie müssen das Bussgeld bezahlen, wenn Sie hier landen.",
+		"Hier spricht die Polizei. Docken an %H erfordert Bezahlung des Bussgeldes.",
+		"Hier spricht die Polizei. Die %H Station wird das Bussgeld einziehen wenn Sie hier landen."
 	);
 	"police-attack-warning" =
 	(
-		"Offender, your craft will be destroyed under GalCop codes.",
-		"Please slow your engines and do not attempt to dodge our lasers, [describe-pirate]!",
-		"%R! Leave now, or face Police retribution.",
-		"[describe-Pirate], you are not welcome in this system.",
-		"Offender vessel, this is %H Police. Leave now or be fired upon.",
-		"[describe-Pirate], you have been scheduled for termination.",
-		"Leave %H now or be destroyed.",
-		"%H Police. Offending ship targeted. Moving to intercept."
+		"Verbrecher, Ihr Raumschiff wird zerstört nach der GalCop Richtlinie.",
+		"Antrieb langsam ausschalten und keine Tricks, [describe-pirate]!",
+		"%R! Verschwinde, oder die Polizei holt dich.",
+		"Krimineller, Sie sind hier nicht willkommen.",
+		"Verbrecher, hier spricht die Polizei von %H. Verschwinden Sie oder wir eröffnen das Feuer!",
+		"Krimineller, Sie wurden zum Tode verurteilt!",
+		"Verschwinde oder du wirst vernichtet!",
+		"Hier spricht die Polizei von %H. Haben das Schiff entdeckt und nehmen Verfolgung auf."
 	);
 
 	// comms message templates for priority AI
-	"oolite-comms-contractAttack" = "You picked the wrong client, [oolite_entityName]!"; // TODO: variety
-	"oolite-comms-makePirateDemand" = "Your cargo or your life, [oolite_entityName]. [oolite_demandSize] barrels and we'll let you go."; // TODO: variety
+	"oolite-comms-contractAttack" = "Sie haben sich den falschen Klienten ausgesucht, [oolite_entityName]!"; // TODO: variety
+	"oolite-comms-makePirateDemand" = "Deine Fracht oder Dein Leben, [oolite_entityName]. [oolite_demandSize] Tonnen und wir lassen Dich gehen."; // TODO: variety
 	"oolite-comms-acceptPirateDemand" = "[beg-for-mercy]";
 	"oolite-comms-surrender" = "[beg-for-mercy]";
 	"oolite-comms-makeDistressCall" = "[distress-call]";
 	// this one needs targeting to avoid confusion
 	"oolite-comms-markForFines" = (
-		"[oolite_entityName], this is %H Police. You have been scanned and will face penalties if you choose to dock here.",
-		"[oolite_entityName], this is %H Police. Fines will be imposed if you dock here.",
-		"This is the police. Docking at %H will require legal compensation for your offences, [oolite_entityName].",
-		"This is the police. %H Station will fine you for your offences when you dock, [oolite_entityName]."
+		"[oolite_entityName], hier spricht die Polizei von %H. Sie wurden erkannt und werden verhaftet wenn Sie hier landen.",
+		"[oolite_entityName], hier spricht die Polizei von %H. Sie müssen das Bussgeld bezahlen, wenn Sie hier landen.",
+		"Hier spricht die Polizei. Docken an %H erfordert Bezahlung des Bussgeldes, [oolite_entityName].",
+		"Hier spricht die Polizei. Die %H Station wird das Bussgeld einziehen wenn Sie hier landen, [oolite_entityName]."
 	);
 	"oolite-comms-distressResponseAggressor" = "[police-attack-warning]";
 	"oolite-comms-offenceDetected" = "[police-attack-warning]";
 	"oolite-comms-thanksForHelp" = 
 	(	
-		"Thank you for the assistance, [oolite_entityName].",
-		"Thanks, [oolite_entityName]!",
-		"%R bless you, [oolite_entityName]!",
-		"Oh thank you, [oolite_entityName]! Help at last!"
+		"Danke für Ihre Unterstützung, [oolite_entityName].",
+		"Danke, [oolite_entityName]!",
+		"%R möge Sie segnen, [oolite_entityName]!",
+		"Oh, vielen Dank, [oolite_entityName]! Help at last!"
 	);
 	"oolite-comms-police-thanksForHelp" = 
 	(
-		"Thank you for the assistance, [oolite_entityName].",
-		"%H Police thank you for your assistance, [oolite_entityName]."
+		"Danke für Ihre Unterstützung, [oolite_entityName].",
+		"Die Polizei von %H dankt Ihnen für Ihre Unterstützung, [oolite_entityName]."
 	);
 
 
 	// /general docking
 	"docking-welcome" =
 	(
-		"Docking systems active.",
-		"Docking permission granted. We have uploaded docking instructions to your flight console."
+		"Andocksysteme aktiviert.",
+		"Erlaubnis zum Andocken erteilt. Anflugdaten wurden Ihnen übermittelt."
 	);
 	"docking-begin-final-aproach" =
 	(
-		"You are on final approach.",
-		"Beginning final approach sequence."
+		"Sie sind im Endanflug.",
+		"Beginne Endanflug."
 	);
 	// /general docking - main station
 	"station-welcome" =
