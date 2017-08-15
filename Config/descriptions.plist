@@ -193,74 +193,74 @@
 	system_description =
 	(
 		( // [0]
-			"fabled",
-			"notable",
-			"well known",
-			"famous",
-			"noted"
+			"sagenhafte",
+			"bemerktenswerte",
+			"bekannte",
+			"sehenswerte",
+			"beachtenswerte"
 		),
 		( // [1]
-			"very",
-			"mildly",
-			"most",
-			"reasonably",
-			"\177"	// Special: deletes following character in the string it's expanded into.
+			"sehr",
+			"wenig",
+			"kaum",
+			"aussergewöhnlich",
+			""
 		),
 		( // [2]
-			"ancient",
+			"uralte",
 			"[20]",
-			"great",
-			"vast",
-			"pink"
+			"grossartige",
+			"enorme",
+			"rosa"
 		),
 		( // [3]
-			"[29] [28] plantations",
-			"mountains",
+			"[29] [28] Plantagen",
+			"Berge",
 			"[27]",
-			"[19] forests",
-			"oceans"
+			"[19] Wälder",
+			"Ozeane"
 		),
 		( // [4]
-			"shyness",
-			"silliness",
-			"mating traditions",
-			"loathing of [5]",
-			"love for [5]"
+			"Schüchternheit",
+			"Albernheit",
+			"Paarungsverhalten",
+			"unbeliebt für [5]",
+			"beliebt für [5]"
 		),
 		( // [5]
-			"food blenders",
-			"tourists",
-			"poetry",
-			"discos",
+			"Mixer",
+			"Touristen",
+			"Poesie",
+			"Discos",
 			"[13]"
 		),
 		( // [6]
-			"talking tree",
-			"crab",
-			"bat",
-			"lobst",
-			"%R"
+			"sprechenden Bäumen",
+			"Krabben",
+			"Fledermäusen",
+			"Krebsen",
+			"%Ren"
 		),
 		( // [7]
-			"beset",
-			"plagued",
-			"ravaged",
-			"cursed",
-			"scourged"
+			"leidet unter",
+			"wird geplagt von",
+			"wird verwüstet von",
+			"ist verflucht mit",
+			"wird gegeisselt von"
 		),
 		( // [8]
-			"[21] civil war",
-			"[26] [23] [24]s",
-			"[26] disease",
-			"[21] earthquakes",
-			"[21] solar activity"
+			"[21] Bürgerkriegen",
+			"[26], [23] [24]",
+			"[26] Krankheiten",
+			"[21] Erdbeben",
+			"[21] Sonnenaktivitäten"
 		),
 		( // [9]
-			"its [2] [3]",
-			"the %I [23] [24]",
-			"its inhabitants’ [25] [4]",
-			"[32]",
-			"its [12] [13]"
+			", [2] [3]",	//OK
+			" Bewohner, die [23] [24]",
+			" Einwohner, die [25] [24]",
+			" [32]",
+			" und [12] [13]"
 		),
 		( // [10]
 			"juice",
