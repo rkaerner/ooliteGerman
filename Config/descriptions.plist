@@ -86,106 +86,106 @@
 	// *** Basic lists ***
 	condition =
 	(
-		"Docked",
-		"Green",
-		"Yellow",
-		"Red"
+		"Angedockt",
+		"Grün",
+		"Gelb",
+		"Rot"
 	);
 	economy =
 	(
-		"Rich Industrial",
-		"Average Industrial",
-		"Poor Industrial",
-		"Mainly Industrial",
-		"Mainly Agricultural",
-		"Rich Agricultural",
-		"Average Agricultural",
-		"Poor Agricultural"
+		"Schwerindustrie",
+		"Leichtindustrie",
+		"Schwache Industrie",
+		"Einfache Industrie",
+		"Einfache Landwirtschaft",
+		"Intensive Landwirtschaft",
+		"Mittlere Landwirtschaft",
+		"Schwache Landwirtschaft"
 	);
 	government =
 	(
-		"Anarchy",
-		"Feudal",
+		"Anarchie",
+		"Feudalsystem",
 		"Multi-Government",
-		"Dictatorship",
-		"Communist",
-		"Confederacy",
-		"Democracy",
-		"Corporate State"
+		"Diktatur",
+		"Kommunistisch",
+		"Staatenbund",
+		"Demokratie",
+		"Marktwirtschaft"
 	);
 	legal_status =
 	(
-		"Clean",
-		"Offender",
-		"Fugitive"
+		"Sauber",
+		"Kriminell",
+		"Gesucht"
 	);
 	rating =
 	(
-		"Harmless",
-		"Mostly Harmless",
-		"Poor",
-		"Average",
-		"Above Average",
-		"Competent",
-		"Dangerous",
-		"☆ Deadly ☆",
+		"Harmlos",
+		"Meistens harmlos",
+		"Ungefährlich",
+		"Durchschnittlich",
+		"Überdurchschnittlich",
+		"Ernstzunehmen",
+		"Gefährlich",
+		"☆ Tödlich ☆",
 		"★★★ E L I T E ★★★"
 	);
 	
 	// Not used - the weapon name is read from equipment.plist
 	weapon_name =
 	(
-		"none",
-		"Twin Plasma Cannon",
-		"Pulse Laser",
-		"Beam Laser",
-		"Mining Laser",
-		"Military Laser"
+		"keine",
+		"Zwilings Plasma Kanone",
+		"Puls Laser",
+		"Strahllaser",
+		"Bergbaulaser",
+		"Militärlaser"
 	);
 	
 	// *** Inhabitant description generator ***
 	inhabitants =
 	(
 		(
-			"Large",
-			"Fierce",
-			"Small"
+			"Grosse",
+			"Wilde",
+			"Kleine"
 		),
 		(
-			"Green",
-			"Red",
-			"Yellow",
-			"Blue",
-			"Black",
-			"Harmless"
+			"Grüne",
+			"Rote",
+			"Gelbe",
+			"Blaue",
+			"Schwarze",
+			"Harmlose"
 		),
 		(
-			"Slimy",
-			"Bug-Eyed",
-			"Horned",
-			"Bony",
-			"Fat",
-			"Furry"
+			"schleimige",
+			"glotzende",
+			"gehörnte",
+			"knochige",
+			"fette",
+			"pelzige"
 		),
 		(
-			"Rodent",
-			"Frog",
-			"Lizard",
-			"Lobster",
-			"Bird",
-			"Humanoid",
-			"Feline",
-			"Insect"
+			"Nagetier",
+			"Frosch",
+			"Eidechse",
+			"Krebs",
+			"Vogel",
+			"Mensch",
+			"Katze",
+			"Insekt"
 		),
 		(
-			"Rodents",
-			"Frogs",
-			"Lizards",
-			"Lobsters",
-			"Birds",
-			"Humanoids",
-			"Felines",
-			"Insects"
+			"Nagetiere",
+			"Frösche",
+			"Eidechsen",
+			"Krebse",
+			"Vögel",
+			"Menschen",
+			"Katzen",
+			"Insekten"
 		)
 	);
 	
