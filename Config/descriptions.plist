@@ -263,186 +263,186 @@
 			" und [12] [13]"
 		),
 		( // [10]
-			"juice",
-			"brandy",
-			"water",
-			"brew",
-			"gargle blasters"
+			"saftige",
+			"feurige",
+			"wässrige",
+			"siedende",
+			"scharfe"
 		),
 		( // [11]
 			"%R",
 			"%I [24]",
 			"%I %R",
-			"%I [26]",
+			"%I [24]",
 			"[26] %R"
 		),
 		( // [12]
-			"fabulous",
-			"exotic",
-			"hoopy",
-			"unusual",
-			"exciting"
+			"absurde",
+			"exotische",
+			"bizarre",
+			"ungewöhnliche",
+			"aufregende"
 		),
 		( // [13]
-			"cuisine",
-			"night life",
-			"casinos",
-			"sit coms",
+			"Küchen",
+			"Nachtleben",
+			"Kasinos",
+			"Fernsehserien",
 			"[32]"
 		),
 		( // [14]
 			"%H",
-			"The planet %H",
-			"The world %H",
-			"This planet",
-			"This world"
+			"Der Planet %H",
+			"Die Welt %H",
+			"Dieser Planet",
+			"Diese Welt"
 		),
 		( // [15]
-			"n unremarkable",
-			" boring",
-			" dull",
-			" tedious",
-			" revolting"
+			"unauffälliger",
+			"langweiliger",
+			"ausdrucksloser",
+			"nutzloser",
+			"ekliger"
 		),
 		( // [16]
-			"planet",
-			"world",
-			"place",
-			"little planet",
-			"dump"
+			"Stern",
+			"Ort",
+			"Platz",
+			"Zwerg",
+			"Klumpen Dreck"
 		),
 		( // [17]
-			"wasp",
-			"moth",
-			"grub",
-			"ant",
-			"%R"
+			"Wespen",
+			"Motten",
+			"Engerlingen",
+			"Ameisen",
+			"%Ren"
 		),
 		( // [18]
-			"poet",
-			"arts graduate",
-			"yak",
-			"snail",
-			"slug"
+			"Poeten",
+			"Künstlern",
+			"Yaks",
+			"Schnecken",
+			"Nacktschnecken"
 		),
 		( // [19]
-			"tropical",
-			"dense",
-			"rain",
-			"impenetrable",
-			"exuberant"
+			"tropische",
+			"dichte",
+			"regenreiche",
+			"undurchdringliche",
+			"üppige"
 		),
 		( // [20]
-			"funny",
-			"weird",
-			"unusual",
-			"strange",
-			"peculiar"
+			"komischen",
+			"sonderbaren",
+			"ungewöhnlichen",
+			"befremdenden",
+			"eigenartigen"
 		),
 		( // [21]
-			"frequent",
-			"occasional",
-			"unpredictable",
-			"dreadful",
-			"deadly"
+			"häufigen",
+			"gelegentlichen",
+			"unvorhersehbaren",
+			"fürchterlichen",
+			"tödlichen"
 		),
 		( // [22]
-			"[1] [0] for [9]",
-			"[1] [0] for [9] and [9]",
-			"[7] by [8]",
-			"[1] [0] for [9] but [7] by [8]",
-			"a[15] [16]"
+			"besitzt [1] [0][9]",
+			"hat [1] [0][9]",
+			"[7] [8]",
+			"hat [1] [0][9] aber [7] [8]",
+			"ist ein [15] [16]"
 		),
 		( // [23]
 			"[26]",
-			"mountain",
-			"edible",
-			"tree",
-			"spotted"
+			"gescheckten",
+			"essbaren",
+			"gestreiften",
+			"gepunkteten"
 		),
 		( // [24]
 			"[30]",
 			"[31]",
-			"[6]oid",
+			"[6]",
 			"[18]",
 			"[17]"
 		),
 		( // [25]
-			"ancient",
-			"exceptional",
-			"eccentric",
-			"ingrained",
+			"uralten",
+			"aussergewöhnlichen",
+			"ausgefallenen",
+			"verwurzelten",
 			"[20]"
 		),
 		( // [26]
-			"killer",
-			"deadly",
-			"evil",
-			"lethal",
-			"vicious"
+			"mörderischen",
+			"furchtbaren",
+			"bösen",
+			"tödlichen",
+			"teuflischen"
 		),
 		( // [27]
-			"parking meters",
-			"dust clouds",
-			"ice bergs",
-			"rock formations",
-			"volcanoes"
+			"Wüsten",
+			"Staubwolken",
+			"Eisberge",
+			"Felsformationen",
+			"Vulkane"
 		),
 		( // [28]
-			"plant",
-			"tulip",
-			"banana",
-			"corn",
-			"%Rweed"
+			"Pflanzen",
+			"Tulpen",
+			"Bananen",
+			"Getreide",
+			"Gras"
 		),
 		( // [29]
 			"%R",
 			"%I %R",
-			"%I [26]",
-			"inhabitant",
+			"[26] %I",
+			"",
 			"%I %R"
 		),
 		( // [30]
-			"shrew",
-			"beast",
-			"bison",
-			"snake",
-			"wolf"
+			"Spitzmäusen",
+			"Biestern",
+			"Bisons",
+			"Schlangen",
+			"Wölfen"
 		),
 		( // [31]
-			"leopard",
-			"cat",
-			"monkey",
-			"goat",
-			"fish"
+			"Leoparden",
+			"Katzen",
+			"Affen",
+			"Ziegen",
+			"Fischen"
 		),
 		( // [32]
-			"[11] [10]",
-			"%I [30] [33]",
-			"its [12] [31] [33]",
-			"[34] [35]",
-			"[11] [10]"
+			"und [10] [11]",
+			"[33] aus [30]",
+			"und [12] [33] aus [31]",
+			"[34]-[35]",
+			"und [10] [11]"
 		),
 		( // [33]
-			"meat",
-			"cutlet",
-			"steak",
-			"burgers",
-			"soup"
+			"Fleisch",
+			"Schitzel",
+			"Steak",
+			"Burger",
+			"Suppe"
 		),
 		( // [34]
-			"ice",
-			"mud",
-			"Zero-G",
-			"vacuum",
-			"%I ultra"
+			"Eis",
+			"Schlamm",
+			"Null-G",
+			"Vakuum",
+			"%I Ultra"
 		),
 		( // [35]
-			"hockey",
-			"cricket",
-			"karate",
-			"polo",
-			"tennis"
+			"Hockey Stadien",
+			"Kricket Plätze",
+			"Karate Arenen",
+			"Polo Spielfelder",
+			"Tennis Plätze"
 		)
 	);
 	
