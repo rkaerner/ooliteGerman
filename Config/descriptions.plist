@@ -717,10 +717,10 @@
 	// /station
 	"fined-@-credits" =
 	(
-		"Sie zahlen ein Bussgeld von %@.",
-		"Sie zahlen ein Bussgeld von %@ und müssen den Müll auf dem Haupthangardeck aufsammeln.",
-		"Sie zahlen ein Bussgeld von %@ und müssen nach den [6] den Boden reinigen.",
-		"Sie zahlen ein Bussgeld von %@ und müssen zur “Verhaltenskorrektur”."
+		"Sie haben ein Bussgeld von %@ zu zahlen.",
+		"Sie haben ein Bussgeld von %@ zu zahlen und müssen den Müll auf dem Haupthangardeck aufsammeln.",
+		"Sie haben ein Bussgeld von %@ zu zahlen und müssen nach den [6] den Boden reinigen.",
+		"Sie haben ein Bussgeld von %@ zu zahlen und müssen zur “Verhaltenskorrektur”."
 	);
 
 	// Space station docking clearance
@@ -768,126 +768,126 @@
 	);
 	"station-docking-clearance-H-clearance-refused" =
 	(
-		"%H station refuses to grant docking clearance to fugitive vessels.",
-		"Fugitive vessel, we cannot clear you for docking. You are not welcome to %H",
-		"Negative. %H security scans indicate your ship has a criminal record.",
-		"Docking clearance is denied, as per GalCop Station Security Regulations."
+		"Die Station von %H lehnt Andockerlaubnis für flüchtige Schiffe ab.",
+		"Flüchtiges Schiff, wir geben keine Andockerlaubnis. Sie sind auf %H nicht willkommen.",
+		"Negativ. Das Sicherheitspersonal von %H hat festgestellt, dass es über Ihr Schiff eine Strafakte gibt.",
+		"Andockerlaubnis nach GalCop Sicherheitsrichtlinien für Raumstationen abgelehnt."
 	);
 	"station-docking-clearance-denied" =
 	(
-		"Docking clearance refused to all hostile vessels.",
-		"Docking not allowed. You are not welcome.",
-		"Negative. Your ship cannot dock here.",
-		"Docking clearance denied."
+		"Andockfreigabe für alle feindlichen Schiffe verweigert.",
+		"Andocken nicht erlaubt. Sie sind nicht willkommen.",
+		"Negativ. Ihr Schiff darf hier nicht andocken.",
+		"Andockfreigabe abgelehnt."
 	);
 	"station-docking-clearance-denied-no-docks" =
 	(
-		"Docking clearance refused to all vessels.",
-		"Docking is not allowed at this station.",
-		"Negative. Your ship cannot dock here.",
-		"Docking clearance denied."
+		"Andockfreigabe für alle Schiffe verweigert.",
+		"Andocken ist an dieser Station nicht erlaubt.",
+		"Negativ. Ihr Schiff darf hier nicht andocken.",
+		"Andockfreigabe abgelehnt."
 	);
 	"station-docking-clearance-denied-no-docks-yet" =
 	(
-		"Docking clearance is refused at this time.",
-		"Docking bays are closed. Please come back later.",
-		"We do not have any docks open at this time.",
-		"Docking clearance denied."
+		"Andockfreigabe wird zur Zeit verweigert.",
+		"Andockbuchten geschlossen. Bitte kommen Sie später wieder.",
+		"Wir haben zur Zeit keine Andockbuchten offen.",
+		"Andockfreigabe abgelehnt."
 	);
 	"station-docking-clearance-granted-until-@" =
 	(
-		"You are cleared to dock. Please proceed. Clearance expires at %@",
-		"You have docking clearance, Commander. Your window is up to %@",
-		"Docking authorized. You have an approach slot terminating at %@",
-		"Permission granted. Proceed for docking approach. Slot valid until %@"
+		"Sie haben Freigabe zum andocken. Bitte fahren Sie fort. Freigabe läuft um %@ ab.",
+		"Sie haben Andockfreigabe, Commander. Ihr Zeitfenster ist bis %@ gültig.",
+		"Andocken autorisiert. Ihr Zeitfenster endet um %@",
+		"Erlaubnis erteilt. Setzen Sie Ihr Andockmanöver fort. Zeitfenster bis %@ gültig."
 	);
 	"station-docking-clearance-granted-in-@-until-@" =
 	(
-		"You are cleared to dock in %@. Please proceed. Clearance expires at %@",
-		"You have docking clearance for %@, Commander. Your window is up to %@",
-		"Docking authorized for %@. You have an approach slot terminating at %@",
-		"Permission granted. Proceed for docking approach to %@. Slot valid until %@"
+		"Sie haben Freigabe zum andocken an %@. Bitte fahren Sie fort. Freigabe läuft um %@ ab.",
+		"Sie haben Andockfreigabe für %@, Commander. Ihr Zeitfenster ist bis %@ gültig.",
+		"Andocken an %@ autorisiert. Ihr Zeitfenster endet um %@",
+		"Erlaubnis erteilt. Setzen Sie Ihr Andockmanöver an %@ fort. Zeitfenster bis %@ gültig."
 	);
 	"station-docking-clearance-extended-until-@" =
 	(
-		"Your docking clearance extension has been approved, you now have until %@"
+		"Die Verlängerung Ihres Zeitfensters zum andocken wurde genehmigt und bis %@ verlängert,"
 	);
 	"station-docking-clearance-about-to-expire" =
 	(
-		"You have 30 seconds left to dock.",
-		"Your docking window is about to close.  Hurry up!",
-		"Warning! Your docking clearance is about to expire."
+		"Sie haben noch 30 Sekunden, um anzudocken.",
+		"Ihr Andockzeitfenster läuft bald ab. Beeilen Sie sich!",
+		"Warnung! Ihre Andockfreigabe läuft ab."
 	);
 	"station-docking-clearance-expired" =
 	(
-		"Your docking clearance has expired.  Please clear the docking corridor."
+		"Ihre Andockfreigabe ist abgelaufen. Bitte räumen Sie den Anflugkorridor."
 	);
 	"station-docking-clearance-cancelled" =
 	(
-		"Docking clearance cancelled, Commander. Please leave the docking area."
+		"Andockfreigabe zurück gezogen, Commander. Bitte verlassen Sie den Andockbereich."
 	);
 	"station-docking-clearance-abort-cancelled" =
 	(
-		"Due to an emergency your docking clearance has been revoked.  Please clear the station approach immediately."
+		"Aufgrund eines Notfalls wurde Ihre Andockfreigabe zurück gezogen. Bitte räumen Sie sofort den Anflugbereich."
 	);
-	"station-docking-clearance-abort-cancelled-in-time" = "Due to an emergency your docking clearance will be revoked in [seconds] seconds.  Please clear the station approach immediately.";
+	"station-docking-clearance-abort-cancelled-in-time" = "Aufgrund eines Notfalls wird Ihre Andockfreigabe in [seconds] Sekunden zurück gezogen. Bitte räumen Sie sofort den Anflugbereich.";
 	"station-docking-clearance-fined-@-cr" =
 	(
-		"You have been fined %@ for unauthorized docking. Docking without asking for clearance is not allowed here.",
-		"You have been fined %@ for violating the station's docking protocol. Docking without clearance is not allowed here.",
-		"You docked without any clearance. For violating the station's docking protocol you have been fined %@."
+		"Sie haben ein Bussgeld von %@ für unerlaubtes andocken zu zahlen. Andocken ohne Anfrage zur Freigabe ist hier nicht erlaubt.",
+		"Sie haben ein Bussgeld von %@ für Verletzung der Andockrichtlinien zu zahlen. Andocken ohne Freigabe ist hier nicht erlaubt.",
+		"Sie haben ohne Freigabe angedockt. Für die Verletzung der Andockrichtlinien haben Sie ein Bussgled von %@ zu zahlen."
 	);
-	"oolite-station-docking-requires-clearance" = "Warning: you do not have docking clearance";		
+	"oolite-station-docking-requires-clearance" = "Warnung: Sie haben keine Andockfreigabe.";		
 
 	// components of the tutorial's docking helper
-	"oolite-tutorial-dock-notarget" = "Use your identification system to target the station you wish to dock with to activate the docking assessment system.";
+	"oolite-tutorial-dock-notarget" = "Nutzen Sie Ihr Identifikationssystem und zielen Sie damit auf die Station, an der Sie andocken wollen.";
 
-	"oolite-tutorial-dock-weapons" = "Weapons: ";
-	"oolite-tutorial-dock-weapons-good" = "Disarmed\n";
-	"oolite-tutorial-dock-weapons-bad" = "Armed (press '[oolite_key_weapons_online_toggle]')\n";
+	"oolite-tutorial-dock-weapons" = "Waffen: ";
+	"oolite-tutorial-dock-weapons-good" = "entschärft\n";
+	"oolite-tutorial-dock-weapons-bad" = "scharf (drücken Sie '[oolite_key_weapons_online_toggle]')\n";
 	
-	"oolite-tutorial-dock-clearance" = "Clearance: ";
-	"oolite-tutorial-dock-clearance-good" = "Granted\n";
-	"oolite-tutorial-dock-clearance-expiring" = "Expiring ('[oolite_key_docking_clearance_request]' to extend)\n";
-	"oolite-tutorial-dock-clearance-bad" = "None (press '[oolite_key_docking_clearance_request]' to request)\n";
-	"oolite-tutorial-dock-clearance-wait" = "Waiting\n";
+	"oolite-tutorial-dock-clearance" = "Freigabe: ";
+	"oolite-tutorial-dock-clearance-good" = "erteilt\n";
+	"oolite-tutorial-dock-clearance-expiring" = "läuft aus ('[oolite_key_docking_clearance_request]' für Verlängerung)\n";
+	"oolite-tutorial-dock-clearance-bad" = "keine (drücken Sie '[oolite_key_docking_clearance_request]' für Anfrage)\n";
+	"oolite-tutorial-dock-clearance-wait" = "wartend\n";
 
 	"oolite-tutorial-dock-approach" = "Approach: ";
-	"oolite-tutorial-dock-approach-good" = "On course\n";
-	"oolite-tutorial-dock-approach-okay" = "Adequate\n";
-	"oolite-tutorial-dock-approach-off" = "Off centre\n";
-	"oolite-tutorial-dock-approach-bad" = "Off course\n";
+	"oolite-tutorial-dock-approach-good" = "auf Kurs\n";
+	"oolite-tutorial-dock-approach-okay" = "noch im Bereich der Toleranz\n";
+	"oolite-tutorial-dock-approach-off" = "Ausserhalb des Zentrums\n";
+	"oolite-tutorial-dock-approach-bad" = "Ausserhalb des Kurses\n";
 
-	"oolite-tutorial-dock-speed" = "Speed: ";
-	"oolite-tutorial-dock-speed-fast" = "Too fast\n";
-	"oolite-tutorial-dock-speed-good" = "Good\n";
-	"oolite-tutorial-dock-speed-slow" = "Too slow\n";
+	"oolite-tutorial-dock-speed" = "Geschwindigkeit: ";
+	"oolite-tutorial-dock-speed-fast" = "zu schnell\n";
+	"oolite-tutorial-dock-speed-good" = "gut\n";
+	"oolite-tutorial-dock-speed-slow" = "zu langsam\n";
 
-	"oolite-tutorial-dock-roll" = "Roll: ";
-	"oolite-tutorial-dock-roll-good" = "Matched\n";
-	"oolite-tutorial-dock-roll-okay" = "Adequate\n";
-	"oolite-tutorial-dock-roll-bad" = "Off course\n";
+	"oolite-tutorial-dock-roll" = "Rollen: ";
+	"oolite-tutorial-dock-roll-good" = "exakt\n";
+	"oolite-tutorial-dock-roll-okay" = "noch im Bereich der Toleranz\n";
+	"oolite-tutorial-dock-roll-bad" = "Ausserhalb der Toleranz\n";
 
 	// system description after a nova
 	"nova-system-description" =
 	(
-		"The [system][planetname-derivative-suffix] sun has gone nova, destroying the planet and all life here. Beware of navigational and radiological hazards in this system."
+		"Die Sonne von [system][planetname-derivative-suffix]wurde zur Nova. Der Planet und alles Leben wurde zerstört. Hüten Sie sich vor Magnetstürmen und Stürmen mit radioaktiver Strahlung in diesem System."
 	);
-	"nova-system-government"		= "Uninhabited system - no government";
-	"nova-system-economy"			= "Uninhabited system - no economy";
-	"nova-system-inhabitants"		= "Uninhabited system";
+	"nova-system-government"		= "unbewohntes System - keine Regierung";
+	"nova-system-economy"			= "unbewohntes System - keine Wirtschaft";
+	"nova-system-inhabitants"		= "unbewohntes System";
 	
 	// trumbles
-	"trumbles-eat-@"				= "Trumbles have eaten a cargopod of %@.";
+	"trumbles-eat-@"				= "Trumbles haben einen Frachtcontainer mit %@ gegessen.";
 	// internal damage
-	"@-damaged"						= "%@ damaged.";
-	"@-destroyed"					= "%@ destroyed.";
+	"@-damaged"						= "%@ beschädigt.";
+	"@-destroyed"					= "%@ zerstört.";
 	
 	// beacon labels
 	"oolite-beacon-label-station"		= "%H Station";
-	"oolite-beacon-label-witchpoint"	= "Witchpoint";
-	"oolite-beacon-label-target"		= "Target";
-	"oolite-default-star-name"			= "Star";
+	"oolite-beacon-label-witchpoint"	= "Hypersprungpunkt";
+	"oolite-beacon-label-target"		= "Ziel";
+	"oolite-default-star-name"			= "Stern";
 
 	// icons for the hud
 	"EQ_HARDENED_MISSILE" =
@@ -1057,120 +1057,120 @@
 	);
 	
 	// The four main views
-	"forward-view-string"			= "Forward View";
-	"aft-view-string"				= "Aft View";
-	"port-view-string"				= "Port View";
-	"starboard-view-string"			= "Starboard View";
+	"forward-view-string"			= "Blick voraus";
+	"aft-view-string"				= "Blick achtern";
+	"port-view-string"				= "Blick nach Backbord";
+	"starboard-view-string"			= "Blick nach Steuerbord";
 	
 	// GUI strings common to more than one screens
-	"gui-back"						= " Back ";
-	"gui-more"						= " More ";
-	"press-space-commander"			= "Press Space Commander";
+	"gui-back"						= " zurück ";
+	"gui-more"						= " weiter ";
+	"press-space-commander"			= "Drücken Sie die Leertaste, Commander";
 	
 	// Demo2 screen
-	"unknown-ship-@"				= "Unknown Ship '%@'.";
+	"unknown-ship-@"				= "unbekanntes Schiff '%@'.";
 
 	// Intro1 screen
-	"game-copyright"				= "by Giles Williams, Jens Ayton and contributors © 2003–2016";
-	"theme-music-credit"			= "Oolite Theme Music by NoSleep © 2004";
-	"load-previous-commander"		= "Load Previous Commander (Y/N)?";
-	"load-previous-commander-yes"	= "y"; // Defines the key that corresponds to the yes answer to load-previous-commander.
+	"game-copyright"				= "von Giles Williams, Jens Ayton und weiteren Mitwirkenden © 2003–2016";
+	"theme-music-credit"			= "Oolite Musik von NoSleep © 2004";
+	"load-previous-commander"		= "vorherigen Commander laden (J/N)?";
+	"load-previous-commander-yes"	= "j"; // Defines the key that corresponds to the yes answer to load-previous-commander.
 	"load-previous-commander-no"	= "n"; // Defines the key that corresponds to the no answer to load-previous-commander.
 	
-	"oolite-start-option-1"			= " Start New Commander ";
-	"oolite-start-option-2"			= " Load Commander ";
-	"oolite-start-option-3"			= " View Ship Library ";
-	"oolite-start-option-4"			= " View Keyboard Settings ";
-	"oolite-start-option-5"			= " Manage Expansion Packs ";
-	"oolite-start-option-6"			= " Exit Game ";
+	"oolite-start-option-1"			= " neuen Commander beginnen ";
+	"oolite-start-option-2"			= " gespeicherten Commander laden ";
+	"oolite-start-option-3"			= " Schiffskatalog ansehen ";
+	"oolite-start-option-4"			= " Tastatureinstellungen ansehen ";
+	"oolite-start-option-5"			= " Erweiterungspakete verwalten";
+	"oolite-start-option-6"			= " Spiel verlassen ";
 
 
-	"oolite-newgame-title"			= "Start New Commander";
+	"oolite-newgame-title"			= "neuen Commander beginnen";
 
-	"oolite-ship-library-title"		= "Ship Library";
-	"oolite-ship-library-exit"		= "Use arrow keys to view ships; press space to exit library";
+	"oolite-ship-library-title"		= "Schiffskatalog";
+	"oolite-ship-library-exit"		= "Benutze die Pfeiltasten, um Schiffe anzusehen; drücke Leertaste zum verlassen des Katalogs";
 	
-	"oolite-ship-library-classified"	= "Classified";	
-	"oolite-ship-library-unknown"	= "Unknown";
+	"oolite-ship-library-classified"	= "klassifiziert";	
+	"oolite-ship-library-unknown"	= "unbekannt";
 
-	"oolite-ship-library-category-ship"		= "Ship";
+	"oolite-ship-library-category-ship"		= "Schiff";
 	"oolite-ship-library-category-station"	= "Installation";
-	"oolite-ship-library-category-weapon"	= "Weapon";
-	"oolite-ship-library-category-thargoid"	= "Thargoid Ship";	
-	"oolite-ship-library-category-misc"	= "Miscellaneous";
+	"oolite-ship-library-category-weapon"	= "Waffe";
+	"oolite-ship-library-category-thargoid"	= "Thargoid Schiff";	
+	"oolite-ship-library-category-misc"	= "Verschiedenes";
 
-	"oolite-ship-library-category-plural-ship"		= "Ships";
-	"oolite-ship-library-category-plural-station"	= "Installations";
-	"oolite-ship-library-category-plural-weapon"	= "Weapons";
-	"oolite-ship-library-category-plural-thargoid"	= "Thargoid Ships";	
-	"oolite-ship-library-category-plural-misc"		= "Miscellaneous";
+	"oolite-ship-library-category-plural-ship"		= "Schiffe";
+	"oolite-ship-library-category-plural-station"	= "Installationen";
+	"oolite-ship-library-category-plural-weapon"	= "Waffen";
+	"oolite-ship-library-category-plural-thargoid"	= "Thargoid Schiffe";	
+	"oolite-ship-library-category-plural-misc"		= "Verschiedene";
 
-	"oolite-ship-library-speed-custom"		= "Speed: %@";
-	"oolite-ship-library-speed-stationary"	= "Speed: Stationary";
-	"oolite-ship-library-speed-veryslow"	= "Speed: Very Slow";
-	"oolite-ship-library-speed-slow"		= "Speed: Slow";
-	"oolite-ship-library-speed-average"		= "Speed: Average";
-	"oolite-ship-library-speed-fast"		= "Speed: Fast";
-	"oolite-ship-library-speed-veryfast"	= "Speed: Very Fast";
+	"oolite-ship-library-speed-custom"		= "Geschwindigkeit: %@";
+	"oolite-ship-library-speed-stationary"	= "Geschwindigkeit: Stillstand";
+	"oolite-ship-library-speed-veryslow"	= "Geschwindigkeit: sehr langsam";
+	"oolite-ship-library-speed-slow"		= "Geschwindigkeit: langsam";
+	"oolite-ship-library-speed-average"		= "Geschwindigkeit: durchschnittlich";
+	"oolite-ship-library-speed-fast"		= "Geschwindigkeit: schnell";
+	"oolite-ship-library-speed-veryfast"	= "Geschwindigkeit: sehr schnell";
 
-	"oolite-ship-library-turn-custom"	= "Turn rate: %@";
-	"oolite-ship-library-turn-veryslow"	= "Turn rate: Very Slow";
-	"oolite-ship-library-turn-slow"		= "Turn rate: Slow";
-	"oolite-ship-library-turn-average"	= "Turn rate: Average";
-	"oolite-ship-library-turn-fast"		= "Turn rate: Fast";
-	"oolite-ship-library-turn-veryfast"	= "Turn rate: Very Fast";
+	"oolite-ship-library-turn-custom"	= "Drehung: %@";
+	"oolite-ship-library-turn-veryslow"	= "Drehung: sehr langsam";
+	"oolite-ship-library-turn-slow"		= "Drehung: langsam";
+	"oolite-ship-library-turn-average"	= "Drehung: durchschnittlich";
+	"oolite-ship-library-turn-fast"		= "Drehung: schnell";
+	"oolite-ship-library-turn-veryfast"	= "Drehung: sehr schnell";
 
-	"oolite-ship-library-cargo-custom"		= "Cargo: %@";
-	"oolite-ship-library-cargo-none"		= "Cargo: None";
-	"oolite-ship-library-cargo-carried-u"	= "Cargo: %u TC";
+	"oolite-ship-library-cargo-custom"		= "Fracht: %@";
+	"oolite-ship-library-cargo-none"		= "Fracht: keine";
+	"oolite-ship-library-cargo-carried-u"	= "Fracht: %u TC";
 
 	"oolite-ship-library-generator-custom"	= "Generator: %@";
-	"oolite-ship-library-generator-weak"	= "Generator: Weak";
-	"oolite-ship-library-generator-average"	= "Generator: Average";
-	"oolite-ship-library-generator-strong"	= "Generator: Strong";
+	"oolite-ship-library-generator-weak"	= "Generator: schwach";
+	"oolite-ship-library-generator-average"	= "Generator: durchschnittlich";
+	"oolite-ship-library-generator-strong"	= "Generator: stark";
 
-	"oolite-ship-library-shields-custom"		= "Shields: %@";
-	"oolite-ship-library-shields-veryweak"		= "Shields: Very Weak";
-	"oolite-ship-library-shields-weak"			= "Shields: Weak";
-	"oolite-ship-library-shields-average"		= "Shields: Average";
-	"oolite-ship-library-shields-strong"		= "Shields: Strong";
-	"oolite-ship-library-shields-verystrong"	= "Shields: Very Strong";
+	"oolite-ship-library-shields-custom"		= "Schilde: %@";
+	"oolite-ship-library-shields-veryweak"		= "Schilde: sehr schwach";
+	"oolite-ship-library-shields-weak"			= "Schilde: schwach";
+	"oolite-ship-library-shields-average"		= "Schilde: durchschnittlich";
+	"oolite-ship-library-shields-strong"		= "Schilde: stark";
+	"oolite-ship-library-shields-verystrong"	= "Schilde: sehr stark";
 
-	"oolite-ship-library-witchspace-custom"	= "Witchspace: %@";
-	"oolite-ship-library-witchspace-yes"	= "Witchspace: Yes";
-	"oolite-ship-library-witchspace-no"		= "Witchspace: No";
+	"oolite-ship-library-witchspace-custom"	= "Hypersprung: %@";
+	"oolite-ship-library-witchspace-yes"	= "Hypersprung: Ja";
+	"oolite-ship-library-witchspace-no"		= "Hypersprung: Nein";
 
-	"oolite-ship-library-weapons-custom"	= "Weapons: %@";
-	"oolite-ship-library-weapons-none"		= "Weapons: None";
-	"oolite-ship-library-weapons-u-u"		= "Weapons: %u fixed, %u pylons";
+	"oolite-ship-library-weapons-custom"	= "Waffen: %@";
+	"oolite-ship-library-weapons-none"		= "Waffen: keine";
+	"oolite-ship-library-weapons-u-u"		= "Waffen: %u fest, %u Pylonen";
 
-	"oolite-ship-library-size-custom"	= "Size: %@";
-	"oolite-ship-library-size-u-u-u"	= "Size: %um x %um x %um";
+	"oolite-ship-library-size-custom"	= "Grösse: %@";
+	"oolite-ship-library-size-u-u-u"	= "Grösse: %um x %um x %um";
 
 
-	"oolite-ship-library-summary-CG"	= "Goods container";
-	"oolite-ship-library-summary-CP"	= "Evacuation ship";
-	"oolite-ship-library-summary-HF"	= "Heavy fighter";
-	"oolite-ship-library-summary-HFr"	= "Heavy freighter";
-	"oolite-ship-library-summary-HT"	= "Heavy transport";
-	"oolite-ship-library-summary-HM"	= "Heavy multi-role";
-	"oolite-ship-library-summary-LF"	= "Light fighter";
-	"oolite-ship-library-summary-LFr"	= "Light freighter";
-	"oolite-ship-library-summary-LM"	= "Light multi-role";
-	"oolite-ship-library-summary-LT"	= "Light transport";
-	"oolite-ship-library-summary-MF"	= "Medium fighter";
-	"oolite-ship-library-summary-MFr"	= "Medium freighter";
-	"oolite-ship-library-summary-MM"	= "Medium multi-role";
-	"oolite-ship-library-summary-MT"	= "Medium transport";
+	"oolite-ship-library-summary-CG"	= "Frachtcontainer";
+	"oolite-ship-library-summary-CP"	= "Evakuierungsschiff";
+	"oolite-ship-library-summary-HF"	= "schweres Kampfschiff";
+	"oolite-ship-library-summary-HFr"	= "schweres Frachtschiff";
+	"oolite-ship-library-summary-HT"	= "schweres Transportschiff";
+	"oolite-ship-library-summary-HM"	= "schweres Universalschiff";
+	"oolite-ship-library-summary-LF"	= "leichtes Kampfschiff";
+	"oolite-ship-library-summary-LFr"	= "leichtes Frachtschiff";
+	"oolite-ship-library-summary-LM"	= "leichtes Universalschiff";
+	"oolite-ship-library-summary-LT"	= "leichtes Transportschiff";
+	"oolite-ship-library-summary-MF"	= "mittleres Kampfschiff";
+	"oolite-ship-library-summary-MFr"	= "mittleres Frachtschiff";
+	"oolite-ship-library-summary-MM"	= "mittleres Universalschiff";
+	"oolite-ship-library-summary-MT"	= "mittleres Transportschiff";
 	"oolite-ship-library-summary-NB"	= "Natural body";
-	"oolite-ship-library-summary-PHF"	= "Police heavy fighter";
-	"oolite-ship-library-summary-PLF"	= "Police light fighter";
-	"oolite-ship-library-summary-RW"	= "Recon warship";
-	"oolite-ship-library-summary-SM"	= "Mining installation";
-	"oolite-ship-library-summary-SA"	= "Navigation aid";
-	"oolite-ship-library-summary-SO"	= "Orbital station";
-	"oolite-ship-library-summary-WMn"	= "Timed explosive";
-	"oolite-ship-library-summary-WMs"	= "Fire-and-forget missile";
+	"oolite-ship-library-summary-PHF"	= "schweres Polizei-Kampfschiff";
+	"oolite-ship-library-summary-PLF"	= "leichtes Polizei-Kampfschiff";
+	"oolite-ship-library-summary-RW"	= "Recon Kriegsschiff";
+	"oolite-ship-library-summary-SM"	= "Bergbauanlage";
+	"oolite-ship-library-summary-SA"	= "Navigationshilfe";
+	"oolite-ship-library-summary-SO"	= "Orbitalstation";
+	"oolite-ship-library-summary-WMn"	= "explosiv nach Zeit";
+	"oolite-ship-library-summary-WMs"	= "Abschiessen-und-vergessen Rakete";
 
 	"oolite-ship-library-description-adder"	= "The Adder is the smallest ship capable of fitting a witchdrive. It has little else to recommend it other than extreme manoeuvrability, but its low price and reliability makes it useful in high-risk mining and salvage operations";
 	"oolite-ship-library-description-anaconda"	= "The Anaconda's large interior is almost entirely cargo space, leaving the ship little room for engines or generators. As a bulk cargo hauler, however, no other ship can carry anywhere near as much - but it requires a strong escort in all but the safest systems.";
