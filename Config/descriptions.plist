@@ -1094,24 +1094,24 @@
 	"oolite-ship-library-unknown"	= "unbekannt";
 
 	"oolite-ship-library-category-ship"		= "Schiff";
-	"oolite-ship-library-category-station"	= "Installation";
+	"oolite-ship-library-category-station"	= "Raumstation";
 	"oolite-ship-library-category-weapon"	= "Waffe";
 	"oolite-ship-library-category-thargoid"	= "Thargoid Schiff";	
 	"oolite-ship-library-category-misc"	= "Verschiedenes";
 
 	"oolite-ship-library-category-plural-ship"		= "Schiffe";
-	"oolite-ship-library-category-plural-station"	= "Installationen";
+	"oolite-ship-library-category-plural-station"	= "Raumstationen";
 	"oolite-ship-library-category-plural-weapon"	= "Waffen";
 	"oolite-ship-library-category-plural-thargoid"	= "Thargoid Schiffe";	
 	"oolite-ship-library-category-plural-misc"		= "Verschiedene";
 
-	"oolite-ship-library-speed-custom"		= "Geschwindigkeit: %@";
-	"oolite-ship-library-speed-stationary"	= "Geschwindigkeit: Stillstand";
-	"oolite-ship-library-speed-veryslow"	= "Geschwindigkeit: sehr langsam";
-	"oolite-ship-library-speed-slow"		= "Geschwindigkeit: langsam";
-	"oolite-ship-library-speed-average"		= "Geschwindigkeit: durchschnittlich";
-	"oolite-ship-library-speed-fast"		= "Geschwindigkeit: schnell";
-	"oolite-ship-library-speed-veryfast"	= "Geschwindigkeit: sehr schnell";
+	"oolite-ship-library-speed-custom"		= "Tempo: %@";
+	"oolite-ship-library-speed-stationary"	= "Tempo: stationär";
+	"oolite-ship-library-speed-veryslow"	= "Tempo: sehr langsam";
+	"oolite-ship-library-speed-slow"		= "Tempo: langsam";
+	"oolite-ship-library-speed-average"		= "Tempo: durchschnittlich";
+	"oolite-ship-library-speed-fast"		= "Tempo: schnell";
+	"oolite-ship-library-speed-veryfast"	= "Tempo: sehr schnell";
 
 	"oolite-ship-library-turn-custom"	= "Drehung: %@";
 	"oolite-ship-library-turn-veryslow"	= "Drehung: sehr langsam";
@@ -1149,7 +1149,7 @@
 
 
 	"oolite-ship-library-summary-CG"	= "Frachtcontainer";
-	"oolite-ship-library-summary-CP"	= "Evakuierungsschiff";
+	"oolite-ship-library-summary-CP"	= "Rettungskapsel";
 	"oolite-ship-library-summary-HF"	= "schweres Kampfschiff";
 	"oolite-ship-library-summary-HFr"	= "schweres Frachtschiff";
 	"oolite-ship-library-summary-HT"	= "schweres Transportschiff";
@@ -1162,12 +1162,12 @@
 	"oolite-ship-library-summary-MFr"	= "mittleres Frachtschiff";
 	"oolite-ship-library-summary-MM"	= "mittleres Universalschiff";
 	"oolite-ship-library-summary-MT"	= "mittleres Transportschiff";
-	"oolite-ship-library-summary-NB"	= "Natural body";
+	"oolite-ship-library-summary-NB"	= "natürlicher Körper";
 	"oolite-ship-library-summary-PHF"	= "schweres Polizei-Kampfschiff";
 	"oolite-ship-library-summary-PLF"	= "leichtes Polizei-Kampfschiff";
 	"oolite-ship-library-summary-RW"	= "Recon Kriegsschiff";
 	"oolite-ship-library-summary-SM"	= "Bergbauanlage";
-	"oolite-ship-library-summary-SA"	= "Navigationshilfe";
+	"oolite-ship-library-summary-SA"	= "Navigationsboje";
 	"oolite-ship-library-summary-SO"	= "Orbitalstation";
 	"oolite-ship-library-summary-WMn"	= "explosiv nach Zeit";
 	"oolite-ship-library-summary-WMs"	= "Abschiessen-und-vergessen Rakete";
@@ -1207,8 +1207,8 @@
 	"oolite-ship-library-description-viperinterceptor"	= "This next generation police fighter has recently been introduced as a replacement for the aging Viper design. Expensive to build and maintain, it is rarely seen except in the richest systems, where it is extremely effective in securing the space lanes against piracy.";
 	"oolite-ship-library-description-worm"	= "A light transport craft similar to the orbital shuttle in capacity but with a longer range. Its weapon mounting is usually used by miners for a cheap mining ship, but particularly desperate pilots have been known to fit it with a pulse laser and use it as a (very) light escort craft.";
 
-	"oolite-keysetting-screen" 		= "Keyboard Settings";
-	"oolite-keysetting-text" 		= "See documentation for more information. Press space to return to the menu";
+	"oolite-keysetting-screen" 		= "Tastatureinstellungen";
+	"oolite-keysetting-text" 		= "Für mehr Informationen lies die Beschreibung. Leertaste, um zurück ins Menü zu kommen.";
 
 	"oolite-keydesc-key_roll_left"				= "Roll left";
 	"oolite-keydesc-key_roll_right"				= "Roll right";
