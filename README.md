@@ -7,7 +7,7 @@ This is the german translation for the famous game oolite from http://www.oolite
 The version of this translation is always equal to the version of the game it is
 made for.
 
-=============================================================================================
+=================================================================================
 
 Veröffentlicht  unter CC BY-NC-SA 4
 
