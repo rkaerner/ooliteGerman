@@ -1,0 +1,12 @@
+{
+"identifier" = "oolite.oxp.LordIntruder.ooliteGerman";
+"required_oolite_version" = "1.84";
+"title" = "oolite German";
+"version" = "1.84";
+"author" = "LordIntruder";
+"category" = "Miscellaneous";
+"description" = "German translation.";
+"information_url" = "http://wiki.alioth.net/index.php/ooliteGerman_oxp";
+"license" = "Creative Commons Attribution - Non-Commercial - Share Alike 4.0 license";
+"tags" = ( "miscellaneous" );
+}
