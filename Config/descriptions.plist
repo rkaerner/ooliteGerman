@@ -678,92 +678,93 @@
 	// /general docking - main station
 	"station-welcome" =
 	(
-		"Welcome to %H space dock.",
-		"Docking systems active. Welcome to %H.",
-		"Welcome to %H. Please have your ship manifest ready for inspection upon docking",
-		"%H Station here. We have uploaded docking instructions to your flight console.",
-		"Salutations spacefarer! Welcome to %H.",
-		"%H welcomes you. Docking procedures should take no more than a few minutes, please stand by.",
-		"Welcome to %H. Please be patient while we guide your ship into space dock.",
-		"Greetings! %H Station traffic control welcomes you."
+		"Willkommen in der %H Raumstation.",
+		"Andocksysteme aktiviert. Willkommen in %H.",
+		"Willkommen in %H. Bitte halten Sie das Ladungsverzeichnis bereit.",
+		"Hier spricht die %H Station. Anflugdaten wurden Ihnen übermittelt.",
+		"Sei gegrüsst Raumfahrer! Willkommen in %H.",
+		"%H heisst Sie wilkommen. Andocken in wenigen Minuten, bitte bereit halten.",
+		"Willkommen in %H. Ihr Schiff wird sofort angedockt.",
+		"Willkommen! Die %H Station Verkehrsleitstelle heisst Sie willkommen."
 	);
 	"station-begin-final-aproach" =
 	(
-		"You are on final approach to %H Station.",
-		"Now entering %H space dock.",
-		"Beginning final approach sequence.",
-		"Entering final approach to %H Station."
+		"Sie sind im Endanflug zur %H Station.",
+		"Sie sind nun im %H Raumdock.",
+		"Beginne Endanflug.",
+		"Beginne Endanflug zur %H Station."
 	);
 	"station-hold-position" =
 	(
-		"Please be patient – you are being held in a docking queue.",
-		"Docking sequence will recommence shortly. Thank you for your patience.",
-		"Traffic is heavy, please continue to hold until we can clear an approach for you.",
-		"You are being queued for docking. Thank you for your patience."
+		"Bitte warten – Sie sind in der Warteschlange.",
+		"Sie werden gleich angedockt, bitte haben Sie etwas Geduld.",
+		"Grosses Verkehrsaufkommen, bitte warten Sie bis wir ein freies Zeitfenster für Sie haben.",
+		"Sie sind in der Warteschlange, bitte haben Sie etwas Geduld."
 	);
 	"station-acknowledges-hold-position" =
 	(
-		"Please be patient – we are preparing to accommodate your vessel.",
-		"Docking sequence will recommence shortly. Thank you for waiting.",
-		"We are preparing an approach for you. Please wait.",
-		"Preparing approach for docking. Thank you for your patience.",
-		"Your docking request is acknowledged. Please hold for clearance.",
-		"We are manoeuvring in preparation for your approach. Please hold."
+		"Bitte haben Sie etwas Geduld – wir bereiten einen Landeplatz für Ihr Raumschiff vor.",
+		"Sie werden bald angedockt, bitte haben Sie etwas Geduld.",
+		"Wir bereiten einen Landeplatz für Ihr Raumschiff vor. Bitte warten.",
+		"Andocken wird vorbereitet. Vielen Dank für Ihre Geduld.",
+		"Anfrage für Andocken erhalten. Bitte warten Sie auf die Freigabe.",
+		"Alles wird für Ihre Landung vorbereitet. Bitte warten."
 	);
 	"station-docking-refused-to-fugitive" =
 	(
-		"%H Station does NOT welcome fugitives!"
+		"Die %H Station lässt keine gesuchten Verbrecher herein!"
 	);
 	// /station
 	"fined-@-credits" =
 	(
-		"You have been fined %@, and made to pick up litter in the main hangar deck.",
-		"You have been fined %@, and are forced to clean up after the [6]oids.",
-		"You have been fined %@, and sent for “attitude adjustment”."
+		"Sie zahlen ein Bussgeld von %@.",
+		"Sie zahlen ein Bussgeld von %@ und müssen den Müll auf dem Haupthangardeck aufsammeln.",
+		"Sie zahlen ein Bussgeld von %@ und müssen nach den [6] den Boden reinigen.",
+		"Sie zahlen ein Bussgeld von %@ und müssen zur “Verhaltenskorrektur”."
 	);
 
 	// Space station docking clearance
 	"station-docking-clearance-acknowledged-d-ships-approaching" =
 	(
-		"Your docking request is acknowledged. Please hold for clearance.",
-		"Please wait until all ships have completed their approach. Your queue position is %d.",
-		"We have inbound traffic, commander. Please stand by. You are number %d in the queue.",
-		"We cannot clear you for docking due to prioritized incoming traffic. Your queue position is %d.",
-		"We have ships on approach to station. Please hold for clearance."
+		"Anfrage für Andocken erhalten. Bitte warten Sie auf die Freigabe.",
+		"Bitte warten Sie, bis alle Schiffe ihren Anflug beendet habe. Ihre Position in der Warteschleife ist %d.",
+		"Wir haben eingehenden Verkehr, Commander. Bitte warten Sie. Sie sind Nummer %d in der Warteschleife.",
+		"Wir können Ihnen aufgrund von eingehendem Vekehr mit hoher Priorität derzeit keine Andockfreigabe erteilen. Ihre Position in der Warteschleife ist %d.",
+		"Wir haben Schiffe im Anflug. Bitte warten Sie auf Freigabe."
 	);
 	"station-docking-clearance-holding-d-ships-approaching" =
 	(
-		"Please be patient – you are being held in a docking queue.",
-		"Traffic is heavy, please continue to hold until we can clear an approach for you.",
-		"You are being queued for docking. Thank you for your patience.",
-		"Please wait until all ships have completed their approach. Your queue position is %d.",
-		"We have inbound traffic, commander. Please stand by. You are number %d in the queue.",
-		"We cannot clear you for docking due to prioritized incoming traffic. Your queue position is %d.",
-		"We have ships on approach to station. Please hold for clearance."
+		"Bitte haben Sie etwas Geduld – wir bereiten einen Landeplatz für Ihr Raumschiff vor.",
+		"Grosses Verkehrsaufkommen, bitte warten Sie bis wir ein freies Zeitfenster für Sie haben.",
+		"Andocken wird vorbereitet. Vielen Dank für Ihre Geduld.",
+		"Bitte warten Sie, bis alle Schiffe ihren Anflug beendet habe. Ihre Position in der Warteschleife ist %d.",
+		"Wir haben eingehenden Verkehr, Commander. Bitte warten Sie. Sie sind Nummer %d in der Warteschleife.",
+		"Wir können Ihnen aufgrund von eingehendem Vekehr mit hoher Priorität derzeit keine Andockfreigabe erteilen. Ihre Position in der Warteschleife ist %d.",
+		"Wir haben Schiffe im Anflug. Bitte warten Sie auf Freigabe."
 	);
 						
 	"station-docking-clearance-acknowledged-d-ships-departing" =
 	(
-		"Please wait until launching ships have cleared the docking corridor. Your queue position is %d.",
-		"We have outbound traffic, Commander. Please stand by.",
-		"Clearance cannot be granted at this moment, due to prioritized outgoing traffic. Please hold station.",
+		"Bitte warten Sie, bis abfliegende Schiffe den Andockkorridor verlassen haben. Ihre Position in der Warteschleife ist %d.",
+		"Wir haben ausgehenden Verkehr, Commander. Bitte warten Sie.",
+		"Aufgrund von ausgehendem Vekehr mit hoher Priorität kann derzeit keine Andockfreigabe erteilt werden. Bitte halten Sie Ihre Position.",
 		"There are ships in the launching queue. Your queue position is %d - please hold."
 	);
 	"station-docking-clearance-holding-d-ships-departing" =
 	(
-		"Please be patient – you are being held in a docking queue.",
-		"Traffic is heavy, please continue to hold until we can clear an approach for you.",
-		"You are being queued for docking. Thank you for your patience.",
-		"Please wait until queued ships have launched. Your queue position is %d.",
-		"We have outbound traffic, commander. Please stand by. You are number %d in the queue.",
-		"We cannot clear you for docking due to prioritized outbound traffic. Your queue position is %d.",
-		"We have launching ships pending. Please hold for clearance."
+		"Bitte haben Sie etwas Geduld – wir bereiten einen Landeplatz für Ihr Raumschiff vor.",
+		"Grosses Verkehrsaufkommen, bitte warten Sie bis wir ein freies Zeitfenster für Sie haben.",
+		"Andocken wird vorbereitet. Vielen Dank für Ihre Geduld.",
+		"Bitte warten Sie, bis wartende Schiffe gestartet sind. Ihre Position in der Warteschleife ist %d.",
+		"Wir haben ausgehenden Verkehr, Commander. Bitte warten Sie. Sie sind Nummer %d in der Warteschleife.",
+		"Wir können Ihnen aufgrund von ausgehendem Vekehr mit hoher Priorität derzeit keine Andockfreigabe erteilen. Ihre Position in der Warteschleife ist %d.",
+		"Wir haben bevorstehende Starts von Schiffen. Bitte warten Sie auf Freigabe."
 	);
 	"station-docking-clearance-not-required" =
 	(
-		"We do not require docking clearance, Commander. Feel free to dock at any time.",
-		"Docking clearance not required.",
-		"Come on in, Commander!"
+		"Wir benötigen keine Andockanfrage, Commander. Docken Sie an, wann immer Sie möchten.",
+		"Andockanfrage nicht erforderlich.",
+		"Hereinspaziert, Commander!"
 	);
 	"station-docking-clearance-H-clearance-refused" =
 	(
