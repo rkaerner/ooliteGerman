@@ -474,7 +474,7 @@
 	
 	// Messages used when awarding bounties
 	"bounty-awarded"				= "Kopfgeld: [score|dcr]\nTotal: [credits|dcr]";
-	"right-on-commander"			= "Weiter so, Commander!";
+	"right-on-commander"			= "Weiter so, Kommandant!";
 	
 	// Assorted messages used by the onboard computer
 	"autopilot-on"					= "Autopilot aktiviert.";
@@ -728,7 +728,7 @@
 	(
 		"Anfrage für Andocken erhalten. Bitte warten Sie auf die Freigabe.",
 		"Bitte warten Sie, bis alle Schiffe ihren Anflug beendet habe. Ihre Position in der Warteschleife ist %d.",
-		"Wir haben eingehenden Verkehr, Commander. Bitte warten Sie. Sie sind Nummer %d in der Warteschleife.",
+		"Wir haben eingehenden Verkehr, Kommandant. Bitte warten Sie. Sie sind Nummer %d in der Warteschleife.",
 		"Wir können Ihnen aufgrund von eingehendem Vekehr mit hoher Priorität derzeit keine Andockfreigabe erteilen. Ihre Position in der Warteschleife ist %d.",
 		"Wir haben Schiffe im Anflug. Bitte warten Sie auf Freigabe."
 	);
@@ -738,7 +738,7 @@
 		"Grosses Verkehrsaufkommen, bitte warten Sie bis wir ein freies Zeitfenster für Sie haben.",
 		"Andocken wird vorbereitet. Vielen Dank für Ihre Geduld.",
 		"Bitte warten Sie, bis alle Schiffe ihren Anflug beendet habe. Ihre Position in der Warteschleife ist %d.",
-		"Wir haben eingehenden Verkehr, Commander. Bitte warten Sie. Sie sind Nummer %d in der Warteschleife.",
+		"Wir haben eingehenden Verkehr, Kommandant. Bitte warten Sie. Sie sind Nummer %d in der Warteschleife.",
 		"Wir können Ihnen aufgrund von eingehendem Vekehr mit hoher Priorität derzeit keine Andockfreigabe erteilen. Ihre Position in der Warteschleife ist %d.",
 		"Wir haben Schiffe im Anflug. Bitte warten Sie auf Freigabe."
 	);
@@ -746,7 +746,7 @@
 	"station-docking-clearance-acknowledged-d-ships-departing" =
 	(
 		"Bitte warten Sie, bis abfliegende Schiffe den Andockkorridor verlassen haben. Ihre Position in der Warteschleife ist %d.",
-		"Wir haben ausgehenden Verkehr, Commander. Bitte warten Sie.",
+		"Wir haben ausgehenden Verkehr, Kommandant. Bitte warten Sie.",
 		"Aufgrund von ausgehendem Vekehr mit hoher Priorität kann derzeit keine Andockfreigabe erteilt werden. Bitte halten Sie Ihre Position.",
 		"There are ships in the launching queue. Your queue position is %d - please hold."
 	);
@@ -756,15 +756,15 @@
 		"Grosses Verkehrsaufkommen, bitte warten Sie bis wir ein freies Zeitfenster für Sie haben.",
 		"Andocken wird vorbereitet. Vielen Dank für Ihre Geduld.",
 		"Bitte warten Sie, bis wartende Schiffe gestartet sind. Ihre Position in der Warteschleife ist %d.",
-		"Wir haben ausgehenden Verkehr, Commander. Bitte warten Sie. Sie sind Nummer %d in der Warteschleife.",
+		"Wir haben ausgehenden Verkehr, Kommandant. Bitte warten Sie. Sie sind Nummer %d in der Warteschleife.",
 		"Wir können Ihnen aufgrund von ausgehendem Vekehr mit hoher Priorität derzeit keine Andockfreigabe erteilen. Ihre Position in der Warteschleife ist %d.",
 		"Wir haben bevorstehende Starts von Schiffen. Bitte warten Sie auf Freigabe."
 	);
 	"station-docking-clearance-not-required" =
 	(
-		"Wir benötigen keine Andockanfrage, Commander. Docken Sie an, wann immer Sie möchten.",
+		"Wir benötigen keine Andockanfrage, Kommandant. Docken Sie an, wann immer Sie möchten.",
 		"Andockanfrage nicht erforderlich.",
-		"Hereinspaziert, Commander!"
+		"Hereinspaziert, Kommandant!"
 	);
 	"station-docking-clearance-H-clearance-refused" =
 	(
@@ -797,14 +797,14 @@
 	"station-docking-clearance-granted-until-@" =
 	(
 		"Sie haben Freigabe zum andocken. Bitte fahren Sie fort. Freigabe läuft um %@ ab.",
-		"Sie haben Andockfreigabe, Commander. Ihr Zeitfenster ist bis %@ gültig.",
+		"Sie haben Andockfreigabe, Kommandant. Ihr Zeitfenster ist bis %@ gültig.",
 		"Andocken autorisiert. Ihr Zeitfenster endet um %@",
 		"Erlaubnis erteilt. Setzen Sie Ihr Andockmanöver fort. Zeitfenster bis %@ gültig."
 	);
 	"station-docking-clearance-granted-in-@-until-@" =
 	(
 		"Sie haben Freigabe zum andocken an %@. Bitte fahren Sie fort. Freigabe läuft um %@ ab.",
-		"Sie haben Andockfreigabe für %@, Commander. Ihr Zeitfenster ist bis %@ gültig.",
+		"Sie haben Andockfreigabe für %@, Kommandant. Ihr Zeitfenster ist bis %@ gültig.",
 		"Andocken an %@ autorisiert. Ihr Zeitfenster endet um %@",
 		"Erlaubnis erteilt. Setzen Sie Ihr Andockmanöver an %@ fort. Zeitfenster bis %@ gültig."
 	);
@@ -824,7 +824,7 @@
 	);
 	"station-docking-clearance-cancelled" =
 	(
-		"Andockfreigabe zurück gezogen, Commander. Bitte verlassen Sie den Andockbereich."
+		"Andockfreigabe zurück gezogen, Kommandant. Bitte verlassen Sie den Andockbereich."
 	);
 	"station-docking-clearance-abort-cancelled" =
 	(
@@ -1065,7 +1065,7 @@
 	// GUI strings common to more than one screens
 	"gui-back"						= " zurück ";
 	"gui-more"						= " weiter ";
-	"press-space-commander"			= "Drücken Sie die Leertaste, Commander";
+	"press-space-commander"			= "Drücken Sie die Leertaste, Kommandant";
 	
 	// Demo2 screen
 	"unknown-ship-@"				= "unbekanntes Schiff '%@'.";
@@ -1073,19 +1073,19 @@
 	// Intro1 screen
 	"game-copyright"				= "von Giles Williams, Jens Ayton und weiteren Mitwirkenden © 2003–2016";
 	"theme-music-credit"			= "Oolite Musik von NoSleep © 2004";
-	"load-previous-commander"		= "vorherigen Commander laden (J/N)?";
+	"load-previous-commander"		= "vorherigen Kommandanten laden (J/N)?";
 	"load-previous-commander-yes"	= "j"; // Defines the key that corresponds to the yes answer to load-previous-commander.
 	"load-previous-commander-no"	= "n"; // Defines the key that corresponds to the no answer to load-previous-commander.
 	
-	"oolite-start-option-1"			= " neuen Commander beginnen ";
-	"oolite-start-option-2"			= " gespeicherten Commander laden ";
+	"oolite-start-option-1"			= " neuen Kommandanten beginnen ";
+	"oolite-start-option-2"			= " gespeicherten Kommandanten laden ";
 	"oolite-start-option-3"			= " Schiffskatalog ansehen ";
 	"oolite-start-option-4"			= " Tastatureinstellungen ansehen ";
 	"oolite-start-option-5"			= " Erweiterungspakete verwalten";
 	"oolite-start-option-6"			= " Spiel verlassen ";
 
 
-	"oolite-newgame-title"			= "neuen Commander beginnen";
+	"oolite-newgame-title"			= "neuen Kommandanten beginnen";
 
 	"oolite-ship-library-title"		= "Schiffskatalog";
 	"oolite-ship-library-exit"		= "Benutze die Pfeiltasten, um Schiffe anzusehen; drücke Leertaste zum verlassen des Katalogs";
@@ -1172,7 +1172,7 @@
 	"oolite-ship-library-summary-WMn"	= "explosiv nach Zeit";
 	"oolite-ship-library-summary-WMs"	= "Abschiessen-und-vergessen Rakete";
 
-	"oolite-ship-library-description-adder"	= "The Adder is the smallest ship capable of fitting a witchdrive. It has little else to recommend it other than extreme manoeuvrability, but its low price and reliability makes it useful in high-risk mining and salvage operations";
+	"oolite-ship-library-description-adder"	= "Die Adder ist das kleinste Schiff, in das ein Hypersprungantrieb eingebaut werden kann. Man kann es nicht wirklich als extrem wendig bezeichnen, aber sein geringer Preis und seine Zuverlässigkeit machen es brauchbar für hochriskante Bergbau- und Bergungsoperationen.";
 	"oolite-ship-library-description-anaconda"	= "The Anaconda's large interior is almost entirely cargo space, leaving the ship little room for engines or generators. As a bulk cargo hauler, however, no other ship can carry anywhere near as much - but it requires a strong escort in all but the safest systems.";
 	"oolite-ship-library-description-asp"	= "The Asp is a pure fighter, with powerful shields and excellent speed. It is most popular with military organisations where the lack of cargo space and singular missile pylon are not significant disadvantages, but it also sees some more peaceful use as a fast courier.";
 	"oolite-ship-library-description-asteroid"	= "Asteroids and other smaller rocky bodies are found throughout Cooperative space. As a minor hazard to navigation there is a small fee paid for their destruction, but more usually they are broken apart by mining ships for possible mineral content.";
@@ -1210,36 +1210,36 @@
 	"oolite-keysetting-screen" 		= "Tastatureinstellungen";
 	"oolite-keysetting-text" 		= "Für mehr Informationen lies die Beschreibung. Leertaste, um zurück ins Menü zu kommen.";
 
-	"oolite-keydesc-key_roll_left"				= "Roll left";
-	"oolite-keydesc-key_roll_right"				= "Roll right";
-	"oolite-keydesc-key_pitch_forward"			= "Pitch down";
-	"oolite-keydesc-key_pitch_back"				= "Pitch up";
-	"oolite-keydesc-key_yaw_left"				= "Yaw left";
-	"oolite-keydesc-key_yaw_right"				= "Yaw right";
+	"oolite-keydesc-key_roll_left"				= "links drehen";
+	"oolite-keydesc-key_roll_right"				= "rechts drehen";
+	"oolite-keydesc-key_pitch_forward"			= "Bug senken";
+	"oolite-keydesc-key_pitch_back"				= "Bug heben";
+	"oolite-keydesc-key_yaw_left"				= "links schwenken";
+	"oolite-keydesc-key_yaw_right"				= "rechts schwenken";
 
-	"oolite-keydesc-key_view_forward"			= "Forward view";
-	"oolite-keydesc-key_view_aft"				= "Aft view";
-	"oolite-keydesc-key_view_port"				= "Port view";
-	"oolite-keydesc-key_view_starboard"			= "Starboard view";
+	"oolite-keydesc-key_view_forward"			= "Blick voraus";
+	"oolite-keydesc-key_view_aft"				= "Blick achtern";
+	"oolite-keydesc-key_view_port"				= "Blick Backboard";
+	"oolite-keydesc-key_view_starboard"			= "Blick Steuerboard";
 
-	"oolite-keydesc-key_gui_screen_status"		= "Status screens";
-	"oolite-keydesc-key_gui_chart_screens"		= "Chart screens";
-	"oolite-keydesc-key_gui_system_data"		= "System screens";
-	"oolite-keydesc-key_gui_market"				= "Market screens";
+	"oolite-keydesc-key_gui_screen_status"		= "Statusfenster";
+	"oolite-keydesc-key_gui_chart_screens"		= "Kartenfenster";
+	"oolite-keydesc-key_gui_system_data"		= "Systemfenster";
+	"oolite-keydesc-key_gui_market"				= "Marktfenster";
 
-	"oolite-keydesc-key_gui_arrow_left"			= "GUI Left";
-	"oolite-keydesc-key_gui_arrow_right"		= "GUI Right";
-	"oolite-keydesc-key_gui_arrow_up"			= "GUI Up";
-	"oolite-keydesc-key_gui_arrow_down"			= "GUI Down";
+	"oolite-keydesc-key_gui_arrow_left"			= "GUI links";
+	"oolite-keydesc-key_gui_arrow_right"		= "GUI rechts";
+	"oolite-keydesc-key_gui_arrow_up"			= "GUI hoch";
+	"oolite-keydesc-key_gui_arrow_down"			= "GUI runter";
 
-	"oolite-keydesc-key_increase_speed"			= "Accelerate";
-	"oolite-keydesc-key_decrease_speed"			= "Decelerate";
-	"oolite-keydesc-key_inject_fuel"			= "Fuel Injectors";
+	"oolite-keydesc-key_increase_speed"			= "beschleunigen";
+	"oolite-keydesc-key_decrease_speed"			= "bremsen";
+	"oolite-keydesc-key_inject_fuel"			= "Spriteinspritzung";
 
-	"oolite-keydesc-key_fire_lasers"			= "Fire laser";
-	"oolite-keydesc-key_weapons_online_toggle"	= "Weapons toggle";
-	"oolite-keydesc-key_launch_missile"			= "Launch missile";
-	"oolite-keydesc-key_next_missile"			= "Next missile";
+	"oolite-keydesc-key_fire_lasers"			= "Laser abfeuern";
+	"oolite-keydesc-key_weapons_online_toggle"	= "Waffen wechseln";
+	"oolite-keydesc-key_launch_missile"			= "Rakete abfeuern";
+	"oolite-keydesc-key_next_missile"			= "nächste Rakete";
 	"oolite-keydesc-key_ecm"					= "ECM";
 
 	"oolite-keydesc-key_prime_equipment"		= "Select item";
@@ -1248,63 +1248,63 @@
 	"oolite-keydesc-key_fastactivate_equipment_a" = "Item shortcut 1";
 	"oolite-keydesc-key_fastactivate_equipment_b" = "Item shortcut 2";
 
-	"oolite-keydesc-key_target_incoming_missile"	= "Target incoming";
-	"oolite-keydesc-key_target_missile"			= "Target missile";
-	"oolite-keydesc-key_untarget_missile"		= "Untarget missile";
-	"oolite-keydesc-key_ident_system"			= "Ident system";
+	"oolite-keydesc-key_target_incoming_missile"	= "anfliegende Rakete anvisieren";
+	"oolite-keydesc-key_target_missile"			= "Rakete scharf machen";
+	"oolite-keydesc-key_untarget_missile"		= "Rakete entschärfen";
+	"oolite-keydesc-key_ident_system"			= "Identifikationssystem";
 
 	"oolite-keydesc-key_scanner_zoom"			= "Zoom scanner";
 	"oolite-keydesc-key_scanner_unzoom"			= "Unzoom scanner";
 
-	"oolite-keydesc-key_launch_escapepod"		= "Escape Pod";
+	"oolite-keydesc-key_launch_escapepod"		= "Rettungskapsel";
 
-	"oolite-keydesc-key_galactic_hyperspace"	= "Galactic jump";
-	"oolite-keydesc-key_hyperspace"				= "Witchspace jump";
-	"oolite-keydesc-key_jumpdrive"				= "Torus drive";
+	"oolite-keydesc-key_galactic_hyperspace"	= "Galaktischer Sprung";
+	"oolite-keydesc-key_hyperspace"				= "Hypersprung";
+	"oolite-keydesc-key_jumpdrive"				= "Torus Antrieb";
 
-	"oolite-keydesc-key_dump_cargo"				= "Dump cargo";
-	"oolite-keydesc-key_rotate_cargo"			= "Rotate cargo";
+	"oolite-keydesc-key_dump_cargo"				= "Fracht abwerfen";
+	"oolite-keydesc-key_rotate_cargo"			= "Fracht rotieren";
 
-	"oolite-keydesc-key_autopilot"				= "Docking computer";
-	"oolite-keydesc-key_autodock"				= "Fast docking";
-	"oolite-keydesc-key_docking_clearance_request"	= "Request clearance";
+	"oolite-keydesc-key_autopilot"				= "Andockcomputer";
+	"oolite-keydesc-key_autodock"				= "schnelles andocken";
+	"oolite-keydesc-key_docking_clearance_request"	= "Landefreigabe anfordern";
 
-	"oolite-keydesc-key_snapshot"				= "Take snapshot";
-	"oolite-keydesc-key_docking_music"			= "Docking music";
+	"oolite-keydesc-key_snapshot"				= "Bild erstellen";
+	"oolite-keydesc-key_docking_music"			= "Andockmusik";
 
-	"oolite-keydesc-key_advanced_nav_array"		= "Route planner";
+	"oolite-keydesc-key_advanced_nav_array"		= "Routenplaner";
 	"oolite-keydesc-key_next_info_system"		= "Next Planet Info";
 	"oolite-keydesc-key_previous_info_system"	= "Previous Planet Info";
-	"oolite-keydesc-key_map_home"				= "Home map";
+	"oolite-keydesc-key_map_home"				= "Karte zentrieren";
 	"oolite-keydesc-key_map_info"				= "Show chart icons";
 
 	"oolite-keydesc-key_pausebutton"			= "Pause";
-	"oolite-keydesc-key_show_fps"				= "Show FPS";
-	"oolite-keydesc-key_mouse_control"			= "Mouse control";
+	"oolite-keydesc-key_show_fps"				= "Zeige FPS";
+	"oolite-keydesc-key_mouse_control"			= "Maussteuerung";
 	"oolite-keydesc-key_hud_toggle"				= "Toggle HUD";
 	
 	"oolite-keydesc-key_inc_field_of_view"		= "Increase FOV";
 	"oolite-keydesc-key_dec_field_of_view"		= "Decrease FOV";
 
 	"oolite-keydesc-key_comms_log"				= "Comms log";
-	"oolite-keydesc-key_prev_compass_mode"		= "ASC back";
-	"oolite-keydesc-key_next_compass_mode"		= "ASC forward";
+	"oolite-keydesc-key_prev_compass_mode"		= "vorheriges ASC";
+	"oolite-keydesc-key_next_compass_mode"		= "nächstes ASC";
 
 	"oolite-keydesc-key_chart_highlight"			= "Chart highlight";
 
 	"oolite-keydesc-key_cycle_mfd"				= "Cycle MFD";
 	"oolite-keydesc-key_switch_mfd"				= "Select MFD";
 
-	"oolite-keydesc-key_next_target"				= "Next target";
-	"oolite-keydesc-key_previous_target"			= "Previous target";
+	"oolite-keydesc-key_next_target"				= "nächstes Ziel";
+	"oolite-keydesc-key_previous_target"			= "vorheriges Ziel";
 
-	"oolite-keydesc-key_custom_view"				= "External view";
+	"oolite-keydesc-key_custom_view"				= "Aussenansicht";
 
-	"oolite-loadsave-exit"			= "Return to Menu";
-	"oolite-scenario-exit"			= "Return to Menu";
-	"oolite-scenario-standard-name" = "Normal Start";
-	"oolite-scenario-strict-name"	= "Strict Mode";
-	"oolite-scenario-tutorial-name" = "Tutorial";
+	"oolite-loadsave-exit"			= "zurück zum Menü";
+	"oolite-scenario-exit"			= "zurück zum Menü";
+	"oolite-scenario-standard-name" = "Normaler Start";
+	"oolite-scenario-strict-name"	= "Strikter Modus";
+	"oolite-scenario-tutorial-name" = "Anleitung";
 	"oolite-scenario-standard-description"	= "Start with a Cobra Mk III and 100 credits at Lave station, and try to make a living.";
 	"oolite-scenario-strict-description"	= "Strict Mode starts like the normal start, but all expansion packs are permanently disabled for this Commander.";
 	"oolite-scenario-tutorial-description"	= "Take a standard Cooperative flight training course, including simulated combat and docking practice.";
