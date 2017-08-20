@@ -54,61 +54,61 @@
 		custom_views =
 		(
 			{
-				view_description = "Rear View";
+				view_description = "Ansicht hinten";
 				view_orientation = "1.0 0.0 0.0 0.0";
 				view_position = "0.0 15.0 -100";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Right View";
+				view_description = "Ansicht hinten rechts";
 				view_orientation = "0.9239 0.0 0.3827 0.0";
 				view_position = "70.71 15.0 -70.71";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Right View";
+				view_description = "Ansicht rechts";
 				view_orientation = "0.7071 0.0 0.7071 0.0";
 				view_position = "100.0 15.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Right View";
+				view_description = "Ansicht vorn rechts";
 				view_orientation = "0.3827 0.0 0.9239 0.0";
 				view_position = "70.71 15.0 70.71";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front View";
+				view_description = "Ansicht vorn";
 				view_orientation = "0.0 0.0 1.0 0.0";
 				view_position = "0.0 15.0 100.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Left View";
+				view_description = "Ansicht vorn links";
 				view_orientation = "0.3827 0.0 -0.9239 0.0";
 				view_position = "-70.71 15.0 70.71";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Left View";
+				view_description = "Ansicht links";
 				view_orientation = "0.7071 0.0 -0.7071 0.0";
 				view_position = "-100.0 15.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Left View";
+				view_description = "Ansicht hinten links";
 				view_orientation = "0.9239 0.0 -0.3827 0.0";
 				view_position = "-70.71 15.0 -70.71";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Top View";
+				view_description = "Ansicht oben";
 				view_orientation = "-0.7071 0.7071 0.0 0.0";
 				view_position = "0.0 100.0 -10.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Bottom View";
+				view_description = "Ansicht unten";
 				view_orientation = "0.0 0.0 0.7071 0.7071";
 				view_position = "0.0 -100.0 -10.0";
 				weapon_facing = "FORWARD";
@@ -196,7 +196,7 @@
 		max_flight_speed = 50;
 		missiles = 0;
 		model = "oolite_alloy.dat";
-		name = "Metal fragment";
+		name = "Metallfragment";
 		roles = "alloy";
 		scan_class = "CLASS_CARGO";
 		thrust = 0;
@@ -212,61 +212,61 @@
 		custom_views =
 		(
 			{
-				view_description = "Rear View";
+				view_description = "Ansicht hinten";
 				view_orientation = "1.0 0.0 0.0 0.0";
 				view_position = "0.0 30.0 -200.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Right View";
+				view_description = "Ansicht rechts hinten";
 				view_orientation = "0.9239 0.0 0.3827 0.0";
 				view_position = "141.42 30.0 -141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Right View";
+				view_description = "Ansicht rechts";
 				view_orientation = "0.7071 0.0 0.7071 0.0";
 				view_position = "200.0 30.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Right View";
+				view_description = "Ansicht vorn rechts";
 				view_orientation = "0.3827 0.0 0.9239 0.0";
 				view_position = "141.42 30.0 141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front View";
+				view_description = "Ansicht vorn";
 				view_orientation = "0.0 0.0 1.0 0.0";
 				view_position = "0.0 30.0 200.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Left View";
+				view_description = "Ansicht vorn links";
 				view_orientation = "0.3827 0.0 -0.9239 0.0";
 				view_position = "-141.42 30.0 141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Left View";
+				view_description = "Ansicht links";
 				view_orientation = "0.7071 0.0 -0.7071 0.0";
 				view_position = "-200.0 30.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Left View";
+				view_description = "Ansicht hinten links";
 				view_orientation = "0.9239 0.0 -0.3827 0.0";
 				view_position = "-141.42 30.0 -141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Top View";
+				view_description = "Ansicht oben";
 				view_orientation = "-0.7071 0.7071 0.0 0.0";
 				view_position = "0.0 300.0 -22.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Bottom View";
+				view_description = "Ansicht unten";
 				view_orientation = "0.0 0.0 0.7071 0.7071";
 				view_position = "0.0 -300.0 -22.0";
 				weapon_facing = "FORWARD";
@@ -383,61 +383,61 @@
 		custom_views =
 		(
 			{
-				view_description = "Rear View";
+				view_description = "Ansicht hinten";
 				view_orientation = "1.0 0.0 0.0 0.0";
 				view_position = "0.0 20.0 -150.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Right View";
+				view_description = "Ansicht rechts hinten";
 				view_orientation = "0.9239 0.0 0.3827 0.0";
 				view_position = "106.06 20.0 -106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Right View";
+				view_description = "Ansicht rechts";
 				view_orientation = "0.7071 0.0 0.7071 0.0";
 				view_position = "150.0 20.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Right View";
+				view_description = "Ansicht vorn rechts";
 				view_orientation = "0.3827 0.0 0.9239 0.0";
 				view_position = "106.06 20.0 106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front View";
+				view_description = "Ansicht vorn";
 				view_orientation = "0.0 0.0 1.0 0.0";
 				view_position = "0.0 20.0 150.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Left View";
+				view_description = "Ansicht vorn links";
 				view_orientation = "0.3827 0.0 -0.9239 0.0";
 				view_position = "-106.06 20.0 106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Left View";
+				view_description = "Ansicht links";
 				view_orientation = "0.7071 0.0 -0.7071 0.0";
 				view_position = "-150.0 20.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Left View";
+				view_description = "Ansicht hinten links";
 				view_orientation = "0.9239 0.0 -0.3827 0.0";
 				view_position = "-106.06 20.0 -106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Top View";
+				view_description = "Ansicht oben";
 				view_orientation = "-0.7071 0.7071 0.0 0.0";
 				view_position = "0.0 150.0 -10.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Bottom View";
+				view_description = "Ansicht unten";
 				view_orientation = "0.0 0.0 0.7071 0.7071";
 				view_position = "0.0 -150.0 -10.0";
 				weapon_facing = "FORWARD";
@@ -578,7 +578,7 @@
 		like_ship = "oolite_template_asteroid";
 		is_template = 1;
 		energy_recharge_rate = 50; // effectively immune to pulse fire
-		name = "Training Asteroid";
+		name = "Trainings-Asteroid";
 		roles = "tutorial-asteroid";
 	};
 	"oolite_template_barrel" =
@@ -606,7 +606,7 @@
 		max_flight_speed = 50;
 		missiles = 0;
 		model = "oolite_barrel.dat";
-		name = "Cargo container";
+		name = "Frachtcontainer";
 		roles = "cargopod 1t-cargopod";
 		scan_class = "CLASS_CARGO";
 		thrust = 0;
@@ -624,61 +624,61 @@
 		custom_views =
 		(
 			{
-				view_description = "Rear View";
+				view_description = "Ansicht hinten";
 				view_orientation = "1.0 0.0 0.0 0.0";
 				view_position = "0.0 30.0 -200.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Right View";
+				view_description = "Ansicht rechts hinten";
 				view_orientation = "0.9239 0.0 0.3827 0.0";
 				view_position = "141.42 30.0 -141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Right View";
+				view_description = "Ansicht rechts";
 				view_orientation = "0.7071 0.0 0.7071 0.0";
 				view_position = "200.0 30.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Right View";
+				view_description = "Ansicht vorn rechts";
 				view_orientation = "0.3827 0.0 0.9239 0.0";
 				view_position = "141.42 30.0 141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front View";
+				view_description = "Ansicht vorn";
 				view_orientation = "0.0 0.0 1.0 0.0";
 				view_position = "0.0 30.0 200.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Left View";
+				view_description = "Ansicht vorn links";
 				view_orientation = "0.3827 0.0 -0.9239 0.0";
 				view_position = "-141.42 30.0 141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Left View";
+				view_description = "Ansicht links";
 				view_orientation = "0.7071 0.0 -0.7071 0.0";
 				view_position = "-200.0 30.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Left View";
+				view_description = "Ansicht hinten links";
 				view_orientation = "0.9239 0.0 -0.3827 0.0";
 				view_position = "-141.42 30.0 -141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Top View";
+				view_description = "Ansicht oben";
 				view_orientation = "-0.7071 0.7071 0.0 0.0";
 				view_position = "0.0 210.0 -15.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Bottom View";
+				view_description = "Ansicht unten";
 				view_orientation = "0.0 0.0 0.7071 0.7071";
 				view_position = "0.0 -210.0 -15.0";
 				weapon_facing = "FORWARD";
@@ -775,61 +775,61 @@
 		custom_views =
 		(
 			{
-				view_description = "Rear View";
+				view_description = "Ansicht hinten";
 				view_orientation = "1.0 0.0 0.0 0.0";
 				view_position = "0.0 30.0 -200.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Right View";
+				view_description = "Ansicht rechts hinten";
 				view_orientation = "0.9239 0.0 0.3827 0.0";
 				view_position = "141.42 30.0 -141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Right View";
+				view_description = "Ansicht rechts";
 				view_orientation = "0.7071 0.0 0.7071 0.0";
 				view_position = "200.0 30.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Right View";
+				view_description = "Ansicht vorn rechts";
 				view_orientation = "0.3827 0.0 0.9239 0.0";
 				view_position = "141.42 30.0 141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front View";
+				view_description = "Ansicht vorn";
 				view_orientation = "0.0 0.0 1.0 0.0";
 				view_position = "0.0 30.0 200.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Left View";
+				view_description = "Ansicht vorn links";
 				view_orientation = "0.3827 0.0 -0.9239 0.0";
 				view_position = "-141.42 30.0 141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Left View";
+				view_description = "Ansicht links";
 				view_orientation = "0.7071 0.0 -0.7071 0.0";
 				view_position = "-200.0 30.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Left View";
+				view_description = "Ansicht hinten links";
 				view_orientation = "0.9239 0.0 -0.3827 0.0";
 				view_position = "-141.42 30.0 -141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Top View";
+				view_description = "Ansicht oben";
 				view_orientation = "-0.7071 0.7071 0.0 0.0";
 				view_position = "0.0 210.0 -15.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Bottom View";
+				view_description = "Ansicht unten";
 				view_orientation = "0.0 0.0 0.7071 0.7071";
 				view_position = "0.0 -210.0 -15.0";
 				weapon_facing = "FORWARD";
@@ -950,7 +950,7 @@
 		max_flight_speed = 50;
 		missiles = 0;
 		model = "oolite_boulder.dat";
-		name = "Boulder";
+		name = "Felsbrocken";
 		roles = "boulder";
 		scan_class = "CLASS_ROCK";
 		smooth = yes;
@@ -988,7 +988,7 @@
 		max_flight_speed = 0;
 		missiles = 0;
 		model = "buoy.dat";
-		name = "Navigation Buoy";
+		name = "Navigations-Boje";
 		roles = "buoy";
 		thrust = 100;
 		unpiloted = yes;
@@ -1014,7 +1014,7 @@
 		beacon_label = "Training Buoy";
 		density = 10000;
 		max_energy = 100000;
-		name = "Training Buoy";
+		name = "Trainings-Boje";
 		roles = "oolite-tutorial-buoy";
 		thrust = 100000;
 	};
@@ -1023,7 +1023,7 @@
 		like_ship = "oolite_template_buoy";
 		is_template = 1;
 		beacon = "W0100 Navigation Buoy (Witchpoint)";
-		name = "Witchpoint Beacon";
+		name = "Lichtsignal Hypersprungpunkt";
 		roles = "buoy-witchpoint";
 		subentities = (
 			{
@@ -1118,7 +1118,7 @@
 		};
 		max_energy = 5;
 		model = "oolite_barrel2.dat";
-		name = "Unusual cargo container";
+		name = "ungewöhnlicher Frachtcontainer";
 		roles = "cloaking-device";
 		script = "oolite-cloaking-device-pod.js";
 	};
@@ -1132,61 +1132,61 @@
 		custom_views =
 		(
 			{
-				view_description = "Rear View";
+				view_description = "Ansicht hinten";
 				view_orientation = "1.0 0.0 0.0 0.0";
 				view_position = "0.0 30.0 -200.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Right View";
+				view_description = "Ansicht rechts hinten";
 				view_orientation = "0.9239 0.0 0.3827 0.0";
 				view_position = "141.42 30.0 -141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Right View";
+				view_description = "Ansicht rechts";
 				view_orientation = "0.7071 0.0 0.7071 0.0";
 				view_position = "200.0 30.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Right View";
+				view_description = "Ansicht vorn rechts";
 				view_orientation = "0.3827 0.0 0.9239 0.0";
 				view_position = "141.42 30.0 141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front View";
+				view_description = "Ansicht vorn";
 				view_orientation = "0.0 0.0 1.0 0.0";
 				view_position = "0.0 30.0 200.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Left View";
+				view_description = "Ansicht vorn links";
 				view_orientation = "0.3827 0.0 -0.9239 0.0";
 				view_position = "-141.42 30.0 141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Left View";
+				view_description = "Ansicht links";
 				view_orientation = "0.7071 0.0 -0.7071 0.0";
 				view_position = "-200.0 30.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Left View";
+				view_description = "Ansicht hinten links";
 				view_orientation = "0.9239 0.0 -0.3827 0.0";
 				view_position = "-141.42 30.0 -141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Top View";
+				view_description = "Ansicht oben";
 				view_orientation = "-0.7071 0.7071 0.0 0.0";
 				view_position = "0.0 200.0 -15.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Bottom View";
+				view_description = "Ansicht unten";
 				view_orientation = "0.0 0.0 0.7071 0.7071";
 				view_position = "0.0 -200.0 -15.0";
 				weapon_facing = "FORWARD";
@@ -1334,61 +1334,61 @@
 		custom_views =
 		(
 			{
-				view_description = "Rear View";
+				view_description = "Ansicht hinten";
 				view_orientation = "1.0 0.0 0.0 0.0";
 				view_position = "0.0 20.0 -150.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Right View";
+				view_description = "Ansicht rechts hinten";
 				view_orientation = "0.9239 0.0 0.3827 0.0";
 				view_position = "106.06 20.0 -106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Right View";
+				view_description = "Ansicht rechts";
 				view_orientation = "0.7071 0.0 0.7071 0.0";
 				view_position = "150.0 20.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Right View";
+				view_description = "Ansicht vorn rechts";
 				view_orientation = "0.3827 0.0 0.9239 0.0";
 				view_position = "106.06 20.0 106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front View";
+				view_description = "Ansicht vorn";
 				view_orientation = "0.0 0.0 1.0 0.0";
 				view_position = "0.0 20.0 150.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Left View";
+				view_description = "Ansicht vorn links";
 				view_orientation = "0.3827 0.0 -0.9239 0.0";
 				view_position = "-106.06 20.0 106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Left View";
+				view_description = "Ansicht links";
 				view_orientation = "0.7071 0.0 -0.7071 0.0";
 				view_position = "-150.0 20.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Left View";
+				view_description = "Ansicht hinten links";
 				view_orientation = "0.9239 0.0 -0.3827 0.0";
 				view_position = "-106.06 20.0 -106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Top View";
+				view_description = "Ansicht oben";
 				view_orientation = "-0.7071 0.7071 0.0 0.0";
 				view_position = "0.0 150.0 -10.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Bottom View";
+				view_description = "Ansicht unten";
 				view_orientation = "0.0 0.0 0.7071 0.7071";
 				view_position = "0.0 -150.0 -10.0";
 				weapon_facing = "FORWARD";
@@ -1924,7 +1924,7 @@
 				}; 
 			};
 		model = "oolite_missile_hardhead.dat";	
-		name = "ECM Hardened Missile";
+		name = "ECM-resistente Rakete";
 		script_info = 
 		{
 			oolite_missile_blastPower = 180;
@@ -1972,7 +1972,7 @@
 		missile_launch_position = "0.0 0.0 4.5";
 		missiles = 0;
 		model = "oolite_escape_capsule.dat";
-		name = "Escape capsule";
+		name = "Rettungskapsel";
 		roles = "escape-capsule";
 		scan_class = "CLASS_CARGO";
 		thrust = 5;
@@ -1990,61 +1990,61 @@
 		custom_views =
 		(
 			{
-				view_description = "Rear View";
+				view_description = "Ansicht hinten";
 				view_orientation = "1.0 0.0 0.0 0.0";
 				view_position = "0.0 20.0 -150.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Right View";
+				view_description = "Ansicht rechts hinten";
 				view_orientation = "0.9239 0.0 0.3827 0.0";
 				view_position = "106.06 20.0 -106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Right View";
+				view_description = "Ansicht rechts";
 				view_orientation = "0.7071 0.0 0.7071 0.0";
 				view_position = "150.0 20.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Right View";
+				view_description = "Ansicht vorn rechts";
 				view_orientation = "0.3827 0.0 0.9239 0.0";
 				view_position = "106.06 20.0 106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front View";
+				view_description = "Ansicht vorn";
 				view_orientation = "0.0 0.0 1.0 0.0";
 				view_position = "0.0 20.0 150.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Left View";
+				view_description = "Ansicht vorn links";
 				view_orientation = "0.3827 0.0 -0.9239 0.0";
 				view_position = "-106.06 20.0 106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Left View";
+				view_description = "Ansicht links";
 				view_orientation = "0.7071 0.0 -0.7071 0.0";
 				view_position = "-150.0 20.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Left View";
+				view_description = "Ansicht hinten links";
 				view_orientation = "0.9239 0.0 -0.3827 0.0";
 				view_position = "-106.06 20.0 -106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Top View";
+				view_description = "Ansicht oben";
 				view_orientation = "-0.7071 0.7071 0.0 0.0";
 				view_position = "0.0 150.0 -13.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Bottom View";
+				view_description = "Ansicht unten";
 				view_orientation = "0.0 0.0 0.7071 0.7071";
 				view_position = "0.0 -165.0 -12.0";
 				weapon_facing = "FORWARD";
@@ -2406,7 +2406,7 @@
 		has_scoop = 0;
 		has_shield_booster = 0;
 		has_shield_enhancer = 0;
-		name = "Training Fighter";
+		name = "Trainings-Frachter";
 		roles = "oolite-tutorial-fighter";
 		script = "oolite-tutorial-fighter.js";
 	};
@@ -2497,7 +2497,7 @@
 				shininess = 10; 
 			};			
 		};
-		name = "Mamba Escort";
+		name = "Mamba Eskorte";
 		roles = "pirate-light-fighter(0.5) escort escort-medium(0.25)";
 	};
 	"oolite_template_missile" = 
@@ -2526,7 +2526,7 @@
 		max_flight_speed = 750;
 		missiles = 0;
 		model = "oolite_missile.dat";
-		name = "Missile";
+		name = "Rakete";
 		roles = "missile EQ_MISSILE";
 		scan_class = "CLASS_MISSILE";
 		script_info = 
@@ -2551,61 +2551,61 @@
 		custom_views =
 		(
 			{
-				view_description = "Rear View";
+				view_description = "Ansicht hinten";
 				view_orientation = "1.0 0.0 0.0 0.0";
 				view_position = "0.0 20.0 -150.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Right View";
+				view_description = "Ansicht rechts hinten";
 				view_orientation = "0.9239 0.0 0.3827 0.0";
 				view_position = "106.06 20.0 -106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Right View";
+				view_description = "Ansicht rechts";
 				view_orientation = "0.7071 0.0 0.7071 0.0";
 				view_position = "150.0 20.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Right View";
+				view_description = "Ansicht vorn rechts";
 				view_orientation = "0.3827 0.0 0.9239 0.0";
 				view_position = "106.06 20.0 106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front View";
+				view_description = "Ansicht vorn";
 				view_orientation = "0.0 0.0 1.0 0.0";
 				view_position = "0.0 20.0 150.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Left View";
+				view_description = "Ansicht vorn links";
 				view_orientation = "0.3827 0.0 -0.9239 0.0";
 				view_position = "-106.06 20.0 106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Left View";
+				view_description = "Ansicht links";
 				view_orientation = "0.7071 0.0 -0.7071 0.0";
 				view_position = "-150.0 20.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Left View";
+				view_description = "Ansicht hinten links";
 				view_orientation = "0.9239 0.0 -0.3827 0.0";
 				view_position = "-106.06 20.0 -106.06";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Top View";
+				view_description = "Ansicht oben";
 				view_orientation = "-0.7071 0.7071 0.0 0.0";
 				view_position = "0.0 150.0 -10.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Bottom View";
+				view_description = "Ansicht unten";
 				view_orientation = "0.0 0.0 0.7071 0.7071";
 				view_position = "0.0 -150.0 -10.0";
 				weapon_facing = "FORWARD";
@@ -2753,61 +2753,61 @@
 		custom_views =
 		(
 			{
-				view_description = "Rear View";
+				view_description = "Ansicht hinten";
 				view_orientation = "1.0 0.0 0.0 0.0";
 				view_position = "0.0 30.0 -200.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Right View";
+				view_description = "Ansicht rechts hinten";
 				view_orientation = "0.9239 0.0 0.3827 0.0";
 				view_position = "141.42 30.0 -141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Right View";
+				view_description = "Ansicht rechts";
 				view_orientation = "0.7071 0.0 0.7071 0.0";
 				view_position = "200.0 30.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Right View";
+				view_description = "Ansicht vorn rechts";
 				view_orientation = "0.3827 0.0 0.9239 0.0";
 				view_position = "141.42 30.0 141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front View";
+				view_description = "Ansicht vorn";
 				view_orientation = "0.0 0.0 1.0 0.0";
 				view_position = "0.0 30.0 200.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Front Left View";
+				view_description = "Ansicht vorn links";
 				view_orientation = "0.3827 0.0 -0.9239 0.0";
 				view_position = "-141.42 30.0 141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Left View";
+				view_description = "Ansicht links";
 				view_orientation = "0.7071 0.0 -0.7071 0.0";
 				view_position = "-200.0 30.0 0.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Rear Left View";
+				view_description = "Ansicht hinten links";
 				view_orientation = "0.9239 0.0 -0.3827 0.0";
 				view_position = "-141.42 30.0 -141.42";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Top View";
+				view_description = "Ansicht oben";
 				view_orientation = "-0.7071 0.7071 0.0 0.0";
 				view_position = "0.0 230.0 -18.0";
 				weapon_facing = "FORWARD";
 			},
 			{
-				view_description = "Bottom View";
+				view_description = "Ansicht unten";
 				view_orientation = "0.0 0.0 0.7071 0.7071";
 				view_position = "0.0 -230.0 -18.0";
 				weapon_facing = "FORWARD";
@@ -3013,7 +3013,7 @@
 		max_flight_roll = 2;
 		max_flight_speed = 1000;
 		model = "qbomb.dat";
-		name = "Quirium Cascade Mine";
+		name = "Quirium Kaskaden-Mine";
 		scan_class = "CLASS_MINE";
 		roles = "energy-bomb EQ_QC_MINE";
 		thrust = 0;
@@ -3325,7 +3325,7 @@
 		like_ship = "oolite_template_coriolis-station";
 		ai_type = "nullAI.plist";
 		is_carrier = 1;
-		name = "Training Station";
+		name = "Trainings-Station";
 		requires_docking_clearance = 1;
 		roles = "oolite-tutorial-station";
 		scan_class = "CLASS_STATION";
@@ -3363,7 +3363,7 @@
 		missile_launch_position = "0.0 -8.0 13.17";
 		missiles = 0;
 		model = "oolite_sidewinder.dat";
-		name = "Sidewinder Scout Ship";
+		name = "Sidewinder Aufklärungsschiff";
 		roles = "pirate(0.75) pirate-light-fighter(0.25) hunter";
 		thrust = 37;
 		weapon_facings = 1;
@@ -3422,7 +3422,7 @@
 		max_flight_speed = 20;
 		missiles = 0;
 		model = "oolite_splinter.dat";
-		name = "Splinter";
+		name = "Felssplitter";
 		roles = "splinter";
 		scan_class = "CLASS_CARGO";
 		smooth = yes;
@@ -3466,7 +3466,7 @@
 		max_flight_speed = 450;
 		missiles = 0;
 		model = "oolite_thargon.dat";
-		name = "Thargoid Robot Fighter";
+		name = "Thargoid Kampfroboter";
 		roles = "tharglet thargon EQ_THARGON";
 		scan_class = "CLASS_THARGOID";
 		scanner_range = 50000;
@@ -3511,7 +3511,7 @@
 		missile_load_time = 1.5;
 		missiles = 5;
 		model = "oolite_thargoid.dat";
-		name = "Thargoid Warship";
+		name = "Thargoid Kriegsschiff";
 		roles = "thargoid thargoid-mothership";
 		scan_class = "CLASS_THARGOID";
 		scanner_range = 60000;
@@ -3580,7 +3580,7 @@
 				emission_modulate_color = (0.9926, 0.9686, 0.7325, 1.0); 				
 			}; 
 		};
-		name = "Mining Transporter";
+		name = "Bergbau-Transporter";
 		roles = "miner";
 	};
 	"oolite_template_viper" = 
@@ -3978,7 +3978,7 @@
 		max_flight_roll = 0.2;
 		max_flight_speed = 500;
 		model = "wreck1.dat";
-		name = "Wreckage";
+		name = "Wrackteil";
 		roles = "wreckage";
 		scan_class = "CLASS_NO_DRAW";
 		thrust = 0;
