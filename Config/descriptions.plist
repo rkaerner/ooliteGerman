@@ -1429,36 +1429,36 @@
 	);
 	
 	// Status screen
-	"status-commander-@"			= "Commander %@";
-	"status-present-system"			= "Present System:";
-	"status-hyperspace-system"		= "Hyperspace System:";
+	"status-commander-@"			= "Kommandant %@";
+	"status-present-system"			= "derzeitiges System:";
+	"status-hyperspace-system"		= "Hypersprung System:";
 	"status-hyperspace-system-multi" = "[targetSystemName] (next: [nextHopSystemName])";
 	"status-condition"				= "Condition:";
-	"status-fuel"					= "Fuel:";
-	"status-light-years-desc"		= "Light Years";
-	"status-cash"					= "Cash:";
-	"status-legal-status"			= "Legal Status:";
-	"status-rating"					= "Rating:";
-	"status-equipment"				= "Equipment:";
-	"equipment-fwd-weapon-@"		= "Forward %@";
-	"equipment-aft-weapon-@"		= "Aft %@";
-	"equipment-stb-weapon-@"		= "Starboard %@";
-	"equipment-port-weapon-@"		= "Port %@";
-	"equipment-pass-berth-@%0"		= "1 Passenger Berth";
-	"equipment-pass-berth-@%1"		= "%d Passenger Berths";
-	"equipment-plural"				= "[count] [equipmentName]s";			// plural form
-	"equipment-@-not-available"		= "%@ (N/A)";							// all broken, only one installed
-	"equipment-plural-some-na"		= "[okcount]/[count] [equipmentName]s";	// some broken, multiple installed
+	"status-fuel"					= "Treibstoff:";
+	"status-light-years-desc"		= "Lichtjahre";
+	"status-cash"					= "Bargeld:";
+	"status-legal-status"			= "Rechtslage:";
+	"status-rating"					= "Einstufung:";
+	"status-equipment"				= "Ausrüstung:";
+	"equipment-fwd-weapon-@"		= "Bug %@";
+	"equipment-aft-weapon-@"		= "Heck %@";
+	"equipment-stb-weapon-@"		= "Steuerbord %@";
+	"equipment-port-weapon-@"		= "ackbord %@";
+	"equipment-pass-berth-@%0"		= "1 Passagierkabine";
+	"equipment-pass-berth-@%1"		= "%d Passagierkabinen";
+	"equipment-plural"				= "[count] [equipmentName]en";			// plural form
+	"equipment-@-not-available"		= "%@ (defekt)";							// all broken, only one installed
+	"equipment-plural-some-na"		= "[okcount]/[count] [equipmentName]en";	// some broken, multiple installed
 	
 	"manifest-cargo-quantity"		= " [quantity] [units] × [commodityName]";
 	"manifest-cargo-quantity-extended" = " [quantity] [units] × [commodityName] ([containers] TC)";
 	
 	// Short and Long Range Chart Overrides
-	"charts-distance"				= "Distance: [distance|precision:1] Light Years";
-	"charts-est-travel-time"		= "Estimated Travel Time: [time|precision:1] Hours";
+	"charts-distance"				= "Entfernung: [distance|precision:1] Lichtjahre";
+	"charts-est-travel-time"		= "geschätzte Reisezeit: [time|precision:1] Stunden";
 	
 	// Short Range Chart Screen
-	"short-range-chart-title"		= "Short Range Chart";
+	"short-range-chart-title"		= "Nahbereichskarte";
 	"short-range-chart-distance"	= "[charts-distance]";
 	"short-range-chart-est-travel-time" = "[charts-est-travel-time]";
 	
@@ -1473,14 +1473,14 @@
 	"long-range-chart-title-6"		= "Galactic Chart 7";
 	"long-range-chart-title-7"		= "Galactic Chart 8";
 	/* Also possible for OXP use */
-	/* 	"long-range-chart-title-0-7"		= "Near Lave"; */
+	/* 	"long-range-chart-title-0-7"		= "nahe Lave"; */
 
 
 
 	"long-range-chart-distance"		= "[charts-distance]";
 	"long-range-chart-est-travel-time" = "[charts-est-travel-time]";
-	"long-range-chart-find-planet-@" = "Find planet: %@";
-	"long-range-chart-system-unreachable" = "System Unreachable";
+	"long-range-chart-find-planet-@" = "Finde Planet: %@";
+	"long-range-chart-system-unreachable" = "System unerreichbar";
 	
 	// Market screen
 	"commodity-market"				= "Commodity Market";	// used if we're in witchspace. Needed for non-english languages.
@@ -1544,15 +1544,15 @@
 	"system-description-string"		= "[14] is [22].";
 	
 	// Options / Loadsave screen
-	"options-quick-save"			= " Quick-Save ";
-	"options-save-commander"		= " Save Commander ";
-	"options-load-commander"		= " Load Commander ";
-	"options-begin-new-game"		= " Begin New Game ";
-	"options-return-to-menu"		= " End Game and Return to Menu ";
-	"options-game-options"			= " Game Options… ";
-	"options-exit-game"				= " Exit Game ";
-	"options-reset-to-unrestricted-play" = " Reset and enable OXPs ";
-	"options-reset-to-strict-play"	= " Reset and disable OXPs ";
+	"options-quick-save"			= " schnellspeichern ";
+	"options-save-commander"		= " speichere Kommandanten ";
+	"options-load-commander"		= " lade Kommandanten ";
+	"options-begin-new-game"		= " starte neues Spiel ";
+	"options-return-to-menu"		= " beende Spiel und zurück zum Menü ";
+	"options-game-options"			= " Spieleinstellungen… ";
+	"options-exit-game"				= " verlasse Spiel ";
+	"options-reset-to-unrestricted-play" = " zurücksetzen und Erweiterungen erlauben ";
+	"options-reset-to-strict-play"	= " zurücksetzen und Erweiterungen verbieten ";
 	
 	// Gameoptions screen
 	"gameoptions-autosave-yes"				= " Autosave: On ";
@@ -1566,9 +1566,9 @@
 	"gameoptions-spoken-messages-comms"		= " Spoken Messages: Comms only ";
 	"gameoptions-spoken-messages-no"		= " Spoken Messages: Off ";
 	"gameoptions-voice-name"				= " Voice: [voiceName] ";
-	"gameoptions-voice-M"					= " Gender: Male ";
-	"gameoptions-voice-F"					= " Gender: Female ";
-	"gameoptions-music-mode"				= " Music: [musicMode] ";
+	"gameoptions-voice-M"					= " Geschlecht: männlich ";
+	"gameoptions-voice-F"					= " Geschlecht: weiblich ";
+	"gameoptions-music-mode"				= " Musik: [musicMode] ";
 	"gameoptions-fullscreen-with-refresh-rate" = " Full Screen Mode: [width] × [height] at [refreshRate|precision:3] Hz ";
 	"gameoptions-fullscreen"				= " Full Screen Mode: [width] × [height] ";
 	"gameoptions-play-in-window"			= " Play in Window ";
