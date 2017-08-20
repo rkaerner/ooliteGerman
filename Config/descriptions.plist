@@ -245,7 +245,7 @@
 			"leidet unter",
 			"wird geplagt von",
 			"wird verwüstet von",
-			"ist verflucht mit",
+			"verfolgt",
 			"wird gegeisselt von"
 		),
 		( // [8]
@@ -565,11 +565,11 @@
 	);
 	"describe-pirate" =
 	(
-		"räuberischer",
+		"räuberischen",
 		"piraten",
 		"feindliches Schiff",
 		"plündernde",
-		"kriminelle"
+		"kriminelle^n"
 	);
 	"describe-Pirate" =	// Capitalized version of describe-pirate
 	(
@@ -1433,7 +1433,7 @@
 	"status-present-system"			= "derzeitiges System:";
 	"status-hyperspace-system"		= "Hypersprung System:";
 	"status-hyperspace-system-multi" = "[targetSystemName] (next: [nextHopSystemName])";
-	"status-condition"				= "Condition:";
+	"status-condition"				= "Zustand:";
 	"status-fuel"					= "Treibstoff:";
 	"status-light-years-desc"		= "Lichtjahre";
 	"status-cash"					= "Bargeld:";
