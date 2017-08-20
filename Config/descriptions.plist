@@ -1059,8 +1059,8 @@
 	// The four main views
 	"forward-view-string"			= "Blick voraus";
 	"aft-view-string"				= "Blick achtern";
-	"port-view-string"				= "Blick nach Backbord";
-	"starboard-view-string"			= "Blick nach Steuerbord";
+	"port-view-string"				= "Blick Backbord";
+	"starboard-view-string"			= "Blick Steuerbord";
 	
 	// GUI strings common to more than one screens
 	"gui-back"						= " zurück ";
@@ -1305,23 +1305,23 @@
 	"oolite-scenario-standard-name" = "Normaler Start";
 	"oolite-scenario-strict-name"	= "Strikter Modus";
 	"oolite-scenario-tutorial-name" = "Anleitung";
-	"oolite-scenario-standard-description"	= "Start with a Cobra Mk III and 100 credits at Lave station, and try to make a living.";
-	"oolite-scenario-strict-description"	= "Strict Mode starts like the normal start, but all expansion packs are permanently disabled for this Commander.";
-	"oolite-scenario-tutorial-description"	= "Take a standard Cooperative flight training course, including simulated combat and docking practice.";
+	"oolite-scenario-standard-description"	= "Starte mit einer Cobra Mk III und 100 Geld auf Lave Station und versuche, Dir ein Leben aufzubauen.";
+	"oolite-scenario-strict-description"	= "Strikter Modus startet wie der normale Start, jedoch sind alle Erweiterungspakete dauerhaft für diesen Kommandanten abgeschaltet.";
+	"oolite-scenario-tutorial-description"	= "Besuche einen Standard Flugtrainingskurs inklusive Kampfsimulation und Andocktraining.";
 
-	"oolite-oxzmanager-title"		= "Expansion Pack Manager";
-	"oolite-oxzmanager-title-downloading"	= "Downloading file...";
-	"oolite-oxzmanager-title-dependencies"	= "Additional packs required...";
-	"oolite-oxzmanager-title-install"	= "Select pack to install";
-	"oolite-oxzmanager-title-installed"	= "Select pack to update";
-	"oolite-oxzmanager-title-remove"	= "Select pack to remove";
-	"oolite-oxzmanager-title-setfilter"	= "Set expansion pack filter";
-	"oolite-oxzmanager-title-infopage"	= "Expansion pack details";
-	"oolite-oxzmanager-title-extract"	= "Extract expansion pack";
-	"oolite-oxzmanager-exit"		= "Return to Menu";
-	"oolite-oxzmanager-exit-restart"	= "Return to Menu (applies changes)";
-	"oolite-oxzmanager-acknowledge"	= "Continue";
-	"oolite-oxzmanager-cancel"		= "Cancel Download";
+	"oolite-oxzmanager-title"		= "Verwaltung von Erweiterungspaketen";
+	"oolite-oxzmanager-title-downloading"	= "Lade Datei herunter...";
+	"oolite-oxzmanager-title-dependencies"	= "zusätzliche Pakete benötigt...";
+	"oolite-oxzmanager-title-install"	= "Wähle zu installierendes Paket aus";
+	"oolite-oxzmanager-title-installed"	= "Wähle zu aktualisierendes Paket aus";
+	"oolite-oxzmanager-title-remove"	= "Wähle zu deinstallierendes Paket aus";
+	"oolite-oxzmanager-title-setfilter"	= "SetFilter für Erweiterungspakete";
+	"oolite-oxzmanager-title-infopage"	= "Details des Erweiterungspakets";
+	"oolite-oxzmanager-title-extract"	= "Extrahiere Erweiterungspaket";
+	"oolite-oxzmanager-exit"		= "Zurück zum Nenü";
+	"oolite-oxzmanager-exit-restart"	= "Zurück zum Menü (Änderungen werden angewendet)";
+	"oolite-oxzmanager-acknowledge"	= "weiter";
+	"oolite-oxzmanager-cancel"		= "breche herunterladen ab";
 	"oolite-oxzmanager-dependencies-yes-all"	= "Download all additional required packs";
 	"oolite-oxzmanager-dependencies-yes"	= "Download next additional required pack";
 	"oolite-oxzmanager-dependencies-no"		= "Do not download additional packs";
