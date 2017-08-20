@@ -3103,7 +3103,7 @@
 		"max_scavengers" = 1;
 		missiles = 0;
 		model = "oolite_rock_hermit.dat";
-		name = "Rock Hermit";
+		name = "Felsposten";
 		roles = "rockhermit station";
 		rotating = yes;
 		requires_docking_clearance = no;
