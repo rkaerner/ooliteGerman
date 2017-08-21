@@ -1745,31 +1745,31 @@
 
 	
 	// Shipyard screen
-	"shipyard-title"				= "[system] Ships For Sale";
-	"shipyard-shiptype"				= "Ship Type:";
-	"shipyard-price-label"			= "Price:    ";
-	"shipyard-cargo-label"			= "Cargo:";
-	"shipyard-cargo-value"			= "Cargo: [cargoRating] TC";
-	"shipyard-speed-label"			= "Speed:";
-	"shipyard-speed-value"			= "Speed: [speedRating|precision:3] LS";
-	"shipyard-no-ships-available-for-purchase" = "No ships available for purchase.";
-	"shipyard-trade-in-value"		= "Your [shipType]’s trade-in value: [tradeIn|idcr].";
-	"shipyard-total-available-with-trade-in" = "Total available: [total|dcr]. ([credits|dcr] Cash + [tradeIn|idcr] Trade.)";
-	"passenger-berth%0"				= "Passenger Berth";
-	"passenger-berth%1"				= "Passenger Berths";
+	"shipyard-title"				= "[system] Schiffshandel";
+	"shipyard-shiptype"				= "Shiffstyp:";
+	"shipyard-price-label"			= "Preis:    ";
+	"shipyard-cargo-label"			= "Fracht:";
+	"shipyard-cargo-value"			= "Laderaumgrösse: [cargoRating] TC";
+	"shipyard-speed-label"			= "Tempo:";
+	"shipyard-speed-value"			= "Tempo: [speedRating|precision:3] LS";
+	"shipyard-no-ships-available-for-purchase" = "Keine Schiffe im Handel.";
+	"shipyard-trade-in-value"		= "Deine [shipType] hat einen Verkaufswert von: [tradeIn|idcr].";
+	"shipyard-total-available-with-trade-in" = "Total verfügbar: [total|dcr]. ([credits|dcr] Bargeld + [tradeIn|idcr] Schiffswert.)";
+	"passenger-berth%0"				= "Passagierkabine";
+	"passenger-berth%1"				= "Passagierkabinen";
 	"extra-@-@-(passenger-berths)"			= " Extra %@ %@";
 	"shipyard-first-extra"			= " Plus [item].";
 	"shipyard-additional-extra"		= " [item].";
-	"shipyard-standard-customer-model" = " Standard customer model.";
-	"shipyard-forward-weapon-upgraded" = " Forward weapon upgraded to [weapon].";
-	"shipyard-price"				= " Price [price|icr].";
+	"shipyard-standard-customer-model" = " Standardmodell.";
+	"shipyard-forward-weapon-upgraded" = " Bugwaffe ausgebaut zu [weapon].";
+	"shipyard-price"				= " Preis [price|icr].";
 	
 	// Load/Save screens shared information
-	"loadsavescreen-commander-name" = "Commander";
-	"loadsavescreen-rating"			= "Rating";
-	"loadsavescreen-no-commanders-found" = "No commanders found";
-	"loadsavescreen-commander-@-rated-@-has-@-legal-status-@-ship-@-location-@-g-@-timestamp-@" = "Commander %@ is rated %@ and has %@ in the bank. Legal status: %@. Ship: %@. Location: %@ (G%d). Timestamp: %@";
-	"loadsavescreen-hold-@-and-press-return-to-open-folder-@"= "Hold %@ and press return to open folder: %@";
+	"loadsavescreen-commander-name" = "Kommandant";
+	"loadsavescreen-rating"			= "Einstufung";
+	"loadsavescreen-no-commanders-found" = "keine Kommandanten gefunden";
+	"loadsavescreen-commander-@-rated-@-has-@-legal-status-@-ship-@-location-@-g-@-timestamp-@" = "Kommandant %@ ist als %@ eingestuft und hat %@ auf dem Konto. Rechtslage: %@. Schiff: %@. Standort: %@ (G%d). Zeitstempel: %@";
+	"loadsavescreen-hold-@-and-press-return-to-open-folder-@"= "Halte %@ und drücke Return um Ordner %@ zu öffnen: %@";
 	"loadsavescreen-hold-@-and-press-return-to-open-parent-folder-@" = "Hold %@ and press return to open parent folder: %@";
 	
 	// Load commander screen
