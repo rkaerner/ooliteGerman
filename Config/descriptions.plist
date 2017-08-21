@@ -1951,28 +1951,28 @@
 							);
 	
 	// Commodity names
-	"oolite-unknown-commodity-name" = "Unknown Commodity";
-	"commodity-name food"			= "Food";
-	"commodity-name textiles"		= "Textiles";
-	"commodity-name radioactives"	= "Radioactives";
-	"commodity-name slaves"			= "Slaves";
-	"commodity-name liquor/wines"	= "Liquor/Wines";
-	"commodity-name luxuries"		= "Luxuries";
-	"commodity-name narcotics"		= "Narcotics";
-	"commodity-name computers"		= "Computers";
-	"commodity-name machinery"		= "Machinery";
-	"commodity-name alloys"			= "Alloys";
-	"commodity-name firearms"		= "Firearms";
-	"commodity-name furs"			= "Furs";
-	"commodity-name minerals"		= "Minerals";
+	"oolite-unknown-commodity-name" = "unbekannter Artikel";
+	"commodity-name food"			= "Nahrung";
+	"commodity-name textiles"		= "Textilien";
+	"commodity-name radioactives"	= "radioaktives Material";
+	"commodity-name slaves"			= "Sklaven";
+	"commodity-name liquor/wines"	= "Liköre/Weine";
+	"commodity-name luxuries"		= "Luxusgüter";
+	"commodity-name narcotics"		= "Rauschgift";
+	"commodity-name computers"		= "Computer";
+	"commodity-name machinery"		= "Maschinen";
+	"commodity-name alloys"			= "Metalle";
+	"commodity-name firearms"		= "Waffen";
+	"commodity-name furs"			= "Pelze";
+	"commodity-name minerals"		= "Mineralien";
 	"commodity-name gold"			= "Gold";
-	"commodity-name platinum"		= "Platinum";
-	"commodity-name gem-stones"		= "Gem-Stones";
-	"commodity-name alien items"	= "Alien Items";
+	"commodity-name platinum"		= "Platin";
+	"commodity-name gem-stones"		= "Edelsteine";
+	"commodity-name alien items"	= "Ausserirdisches";
 	// Commodity names: new spellings
-	"commodity-name liquor_wines"	= "Liquor/Wines";
-	"commodity-name gem_stones"		= "Gem-Stones";
-	"commodity-name alien_items"		= "Alien Items";
+	"commodity-name liquor_wines"	= "Liköre/Weine";
+	"commodity-name gem_stones"		= "Edelsteine";
+	"commodity-name alien_items"		= "Ausserirdisches";
 
 	// autosave filename identifier
 	"autosave-commander-suffix"		= " (autosave)";
@@ -1995,7 +1995,7 @@
 	// Locale-specific defaults
 	"espeak-default-voice"	= "default";
 	
-	"speech-synthesis-incoming-message"	= "Incoming message";
+	"speech-synthesis-incoming-message"	= "eingehende Nachricht";
 	"speech-synthesis-incoming-message-@"	= "[speech-synthesis-incoming-message]: %@";
 	
 	// translations of special keys
