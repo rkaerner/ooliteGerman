@@ -1749,7 +1749,7 @@
 	"shipyard-shiptype"				= "Shiffstyp:";
 	"shipyard-price-label"			= "Preis:    ";
 	"shipyard-cargo-label"			= "Fracht:";
-	"shipyard-cargo-value"			= "Laderaum: [cargoRating] TC";
+	"shipyard-cargo-value"			= "Fracht: [cargoRating] TC";
 	"shipyard-speed-label"			= "Tempo:";
 	"shipyard-speed-value"			= "Tempo: [speedRating|precision:3] LS";
 	"shipyard-no-ships-available-for-purchase" = "Keine Schiffe im Handel.";
